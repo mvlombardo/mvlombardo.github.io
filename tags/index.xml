@@ -219,11 +219,11 @@
     </item>
     
     <item>
-      <title>Heterogeneity</title>
-      <link>/tags/heterogeneity/</link>
+      <title>Mentalizing</title>
+      <link>/tags/mentalizing/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
       
-      <guid>/tags/heterogeneity/</guid>
+      <guid>/tags/mentalizing/</guid>
       <description></description>
     </item>
     
@@ -264,11 +264,11 @@
     </item>
     
     <item>
-      <title>mentalizing</title>
-      <link>/tags/mentalizing/</link>
+      <title>heterogeneity</title>
+      <link>/tags/heterogeneity/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
       
-      <guid>/tags/mentalizing/</guid>
+      <guid>/tags/heterogeneity/</guid>
       <description></description>
     </item>
     
@@ -1038,6 +1038,15 @@
     </item>
     
     <item>
+      <title>Imaging</title>
+      <link>/tags/imaging/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Immune</title>
       <link>/tags/immune/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1061,6 +1070,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/tags/individuality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligence</title>
+      <link>/tags/intelligence/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/intelligence/</guid>
       <description></description>
     </item>
     
@@ -1160,6 +1178,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/tags/nerve-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroimaging</title>
+      <link>/tags/neuroimaging/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/neuroimaging/</guid>
       <description></description>
     </item>
     
@@ -1299,15 +1326,6 @@
     </item>
     
     <item>
-      <title>Sex differences</title>
-      <link>/tags/sex-differences/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/sex-differences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Siblings</title>
       <link>/tags/siblings/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1362,7 +1380,7 @@
     </item>
     
     <item>
-      <title>Systems Biology</title>
+      <title>Systems biology</title>
       <link>/tags/systems-biology/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
@@ -1497,24 +1515,6 @@
     </item>
     
     <item>
-      <title>imaging</title>
-      <link>/tags/imaging/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/imaging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>intelligence</title>
-      <link>/tags/intelligence/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>lamination</title>
       <link>/tags/lamination/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1524,11 +1524,11 @@
     </item>
     
     <item>
-      <title>neuroimaging</title>
-      <link>/tags/neuroimaging/</link>
+      <title>sex differences</title>
+      <link>/tags/sex-differences/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
-      <guid>/tags/neuroimaging/</guid>
+      <guid>/tags/sex-differences/</guid>
       <description></description>
     </item>
     
@@ -2244,15 +2244,6 @@
     </item>
     
     <item>
-      <title>Neuroanatomy</title>
-      <link>/tags/neuroanatomy/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
-      
-      <guid>/tags/neuroanatomy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Neurological</title>
       <link>/tags/neurological/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
@@ -2276,6 +2267,15 @@
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
       
       <guid>/tags/individual-differences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neuroanatomy</title>
+      <link>/tags/neuroanatomy/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
+      
+      <guid>/tags/neuroanatomy/</guid>
       <description></description>
     </item>
     

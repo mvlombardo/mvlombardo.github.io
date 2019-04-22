@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>**EU-AIMS LEAP group**</title>
-      <link>/authors/eu-aims-leap-group/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/eu-aims-leap-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>**Michael V. Lombardo**</title>
       <link>/authors/michael-v.-lombardo/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
@@ -93,6 +84,15 @@
     </item>
     
     <item>
+      <title>EU-AIMS LEAP group</title>
+      <link>/authors/eu-aims-leap-group/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/eu-aims-leap-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Eva Loth</title>
       <link>/authors/eva-loth/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
@@ -102,7 +102,7 @@
     </item>
     
     <item>
-      <title>Flavio dell’Acqua</title>
+      <title>Flavio Dell&#39;Acqua</title>
       <link>/authors/flavio-dellacqua/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
       
@@ -435,15 +435,6 @@
     </item>
     
     <item>
-      <title>**MRC AIMS Consortium**</title>
-      <link>/authors/mrc-aims-consortium/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/mrc-aims-consortium/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cynthia Carter Barnes</title>
       <link>/authors/cynthia-carter-barnes/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0200</pubDate>
@@ -512,6 +503,15 @@
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0200</pubDate>
       
       <guid>/authors/lisa-eyler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MRC AIMS Consortium</title>
+      <link>/authors/mrc-aims-consortium/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/mrc-aims-consortium/</guid>
       <description></description>
     </item>
     
@@ -966,7 +966,7 @@
     </item>
     
     <item>
-      <title>Flavio Dell&#39; Acqua</title>
+      <title>Flavio Dell’ Acqua</title>
       <link>/authors/flavio-dell-acqua/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0300</pubDate>
       
@@ -1083,7 +1083,7 @@
     </item>
     
     <item>
-      <title>Laurence O&#39;Dwyer</title>
+      <title>Laurence O’Dwyer</title>
       <link>/authors/laurence-odwyer/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0300</pubDate>
       
@@ -1209,7 +1209,7 @@
     </item>
     
     <item>
-      <title>Xavier Liogier D&#39;ardhuy</title>
+      <title>Xavier Liogier D’ardhuy</title>
       <link>/authors/xavier-liogier-dardhuy/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0300</pubDate>
       

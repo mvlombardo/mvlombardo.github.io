@@ -36,28 +36,6 @@
     </item>
     
     <item>
-      <title>Hello world</title>
-      <link>/news/hello-world/</link>
-      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/news/hello-world/</guid>
-      <description>&lt;p&gt;22/04/19&lt;/p&gt;
-
-&lt;p&gt;Site goes live today. Has the following pages:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Home&lt;/li&gt;
-&lt;li&gt;People&lt;/li&gt;
-&lt;li&gt;Publications&lt;/li&gt;
-&lt;li&gt;News&lt;/li&gt;
-&lt;li&gt;Contact&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;More to come in the near future.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>PhD positions</title>
       <link>/news/phd-positions/</link>
       <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
