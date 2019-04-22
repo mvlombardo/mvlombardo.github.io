@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>myelin on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/it/tags/myelin/</link>
+    <description>Recent content in myelin on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/it/tags/myelin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>White-matter relaxation time and myelin water fraction differences in young adults with autism</title>
+      <link>/it/publication/deoni-white-matter-2015/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/it/publication/deoni-white-matter-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

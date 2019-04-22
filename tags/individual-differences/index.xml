@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>individual differences on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/tags/individual-differences/</link>
+    <description>Recent content in individual differences on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="/tags/individual-differences/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Neuroanatomy of Individual Differences in Language in Adult Males with Autism</title>
+      <link>/publication/lai-neuroanatomy-2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/lai-neuroanatomy-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

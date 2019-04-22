@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>voxel based morphometry on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/tags/voxel-based-morphometry/</link>
+    <description>Recent content in voxel based morphometry on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/voxel-based-morphometry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On the brain structure heterogeneity of autism: Parsing out acquisition site effects with significance-weighted principal component analysis</title>
+      <link>/publication/martinez-murcia-brain-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/martinez-murcia-brain-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A meta-analysis of sex differences in human brain structure</title>
+      <link>/publication/ruigrok-meta-analysis-2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/ruigrok-meta-analysis-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General and specific effects of early-life psychosocial adversities on adolescent grey matter volume</title>
+      <link>/publication/walsh-general-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/walsh-general-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

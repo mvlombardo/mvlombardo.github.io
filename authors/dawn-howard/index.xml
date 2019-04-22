@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dawn Howard on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/authors/dawn-howard/</link>
+    <description>Recent content in Dawn Howard on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/authors/dawn-howard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sex differences and autism: brain function during verbal fluency and mental rotation</title>
+      <link>/publication/beacher-sex-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/beacher-sex-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inhibitory control on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/tags/inhibitory-control/</link>
+    <description>Recent content in Inhibitory control on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Feb 2012 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/inhibitory-control/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fronto-striatal circuitry and inhibitory control in autism: Findings from diffusion tensor imaging tractography</title>
+      <link>/publication/langen-fronto-striatal-2012/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/langen-fronto-striatal-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

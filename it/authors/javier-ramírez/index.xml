@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javier Ramírez on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/it/authors/javier-ram%C3%ADrez/</link>
+    <description>Recent content in Javier Ramírez on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/it/authors/javier-ram%C3%ADrez/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Machine Learning Approach to Reveal the NeuroPhenotypes of Autisms</title>
+      <link>/it/publication/gorriz-machine-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/it/publication/gorriz-machine-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the brain structure heterogeneity of autism: Parsing out acquisition site effects with significance-weighted principal component analysis</title>
+      <link>/it/publication/martinez-murcia-brain-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/publication/martinez-murcia-brain-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

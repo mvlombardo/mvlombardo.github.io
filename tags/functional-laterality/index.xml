@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Functional Laterality on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/tags/functional-laterality/</link>
+    <description>Recent content in Functional Laterality on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/functional-laterality/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In Vivo Evidence of Reduced Integrity of the Gray-White Matter Boundary in Autism Spectrum Disorder</title>
+      <link>/publication/andrews-vivo-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/andrews-vivo-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atypically rightward cerebral asymmetry in male adults with autism stratifies individuals with and without language delay</title>
+      <link>/publication/floris-atypically-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/floris-atypically-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fetal testosterone influences sexually dimorphic gray matter in the human brain</title>
+      <link>/publication/lombardo-fetal-2012-1/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/lombardo-fetal-2012-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Declan Murphy on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/authors/declan-murphy/</link>
+    <description>Recent content in Declan Murphy on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="/authors/declan-murphy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The effect of age on vertex-based measures of the grey-white matter tissue contrast in autism spectrum disorder</title>
+      <link>/publication/mann-effect-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/mann-effect-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impaired Communication Between the Motor and Somatosensory Homunculus Is Associated With Poor Manual Dexterity in Autism Spectrum Disorder</title>
+      <link>/publication/thompson-impaired-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/thompson-impaired-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relationship Between Surface-Based Brain Morphometric Measures and Intelligence in Autism Spectrum Disorders: Influence of History of Language Delay</title>
+      <link>/publication/balardin-relationship-2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/balardin-relationship-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obsessive-Compulsive Disorder in Adults with High-Functioning Autism Spectrum Disorder: What Does Self-Report with the OCI-R Tell Us?</title>
+      <link>/publication/cadman-obsessive-compulsive-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/cadman-obsessive-compulsive-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inter-regional cortical thickness correlations are associated with autistic symptoms: A machine-learning approach</title>
+      <link>/publication/sato-inter-regional-2013/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/sato-inter-regional-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual-motor integration on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/tags/visual-motor-integration/</link>
+    <description>Recent content in Visual-motor integration on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/visual-motor-integration/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Altered Connectivity Between Cerebellum, Visual, and Sensory-Motor Networks in Autism Spectrum Disorder: Results from the EU-AIMS Longitudinal European Autism Project</title>
+      <link>/publication/oldehinkel-altered-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/oldehinkel-altered-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

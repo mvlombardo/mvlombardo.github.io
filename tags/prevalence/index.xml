@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prevalence on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/tags/prevalence/</link>
+    <description>Recent content in Prevalence on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Mar 2014 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/prevalence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Autism</title>
+      <link>/publication/lai-autism-2014/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/lai-autism-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why are autism spectrum conditions more prevalent in males?</title>
+      <link>/publication/baron-cohen-why-2011/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/baron-cohen-why-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

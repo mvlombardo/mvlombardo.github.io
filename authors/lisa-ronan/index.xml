@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lisa Ronan on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/authors/lisa-ronan/</link>
+    <description>Recent content in Lisa Ronan on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2013 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="/authors/lisa-ronan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intrinsic gray-matter connectivity of the brain in adults with autism spectrum disorder</title>
+      <link>/publication/ecker-intrinsic-2013/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/ecker-intrinsic-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

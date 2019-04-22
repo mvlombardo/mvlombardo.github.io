@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Surveys and Questionnaires on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/tags/surveys-and-questionnaires/</link>
+    <description>Recent content in Surveys and Questionnaires on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/surveys-and-questionnaires/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The EU-AIMS Longitudinal European Autism Project (LEAP): clinical characterisation</title>
+      <link>/publication/charman-eu-aims-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/charman-eu-aims-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fetal programming effects of testosterone on the reward system and behavioral approach tendencies in humans</title>
+      <link>/publication/lombardo-fetal-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/lombardo-fetal-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moral dilemmas film task: A study of spontaneous narratives by individuals with autism spectrum conditions</title>
+      <link>/publication/barnes-moral-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/barnes-moral-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

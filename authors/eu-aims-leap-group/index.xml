@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>**EU-AIMS LEAP group** on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/authors/eu-aims-leap-group/</link>
+    <description>Recent content in **EU-AIMS LEAP group** on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/authors/eu-aims-leap-group/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Altered Connectivity Between Cerebellum, Visual, and Sensory-Motor Networks in Autism Spectrum Disorder: Results from the EU-AIMS Longitudinal European Autism Project</title>
+      <link>/publication/oldehinkel-altered-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/oldehinkel-altered-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the factors underlying adaptive functioning in autism in the EU-AIMS Longitudinal European Autism Project</title>
+      <link>/publication/tillmann-investigating-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/tillmann-investigating-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

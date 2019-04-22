@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/it/authors/admin/</link>
+    <description>Recent content in admin on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    
+	<atom:link href="/it/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/it/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/it/author/admin/</guid>
+      <description>Sono un ricercatore senior presso il Center for Cognitive Neuroscience and Cognitive Systems (CNCS) presso Istituto Italiano di Tecnologia (IIT) a Rovereto, in Italia. Dirigo il laboratorio per l&amp;rsquo;autismo e i disordini del neurosviluppo (LAND). Il programma di ricerca traslazionale di IIT LAND è incentrato sulla comprensione dell&amp;rsquo;eterogeneità e dei meccanismi di sviluppo precoce coinvolti nell&amp;rsquo;autismo e nel neurosviluppo atipico.</description>
+    </item>
+    
+  </channel>
+</rss>

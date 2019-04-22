@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alexithymia on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/it/tags/alexithymia/</link>
+    <description>Recent content in alexithymia on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/it/tags/alexithymia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alexithymia in children with and without autism spectrum disorders</title>
+      <link>/it/publication/griffin-alexithymia-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/it/publication/griffin-alexithymia-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response to Smith’s Letter to the Editor ‘Emotional Empathy in Autism Spectrum Conditions: Weak, Intact, or Heightened?’</title>
+      <link>/it/publication/minio-paluello-response-2009/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0300</pubDate>
+      
+      <guid>/it/publication/minio-paluello-response-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

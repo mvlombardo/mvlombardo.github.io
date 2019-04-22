@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Rubia on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/authors/k.-rubia/</link>
+    <description>Recent content in K. Rubia on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="/authors/k.-rubia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparison of neural substrates of temporal discounting between youth with autism spectrum disorder and with obsessive-compulsive disorder</title>
+      <link>/publication/carlisi-comparison-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/carlisi-comparison-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disorder-specific functional abnormalities during sustained attention in youth with Attention Deficit Hyperactivity Disorder (ADHD) and with Autism</title>
+      <link>/publication/christakou-disorder-specific-2013/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/christakou-disorder-specific-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

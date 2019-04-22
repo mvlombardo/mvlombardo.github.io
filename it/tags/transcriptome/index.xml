@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transcriptome on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/it/tags/transcriptome/</link>
+    <description>Recent content in Transcriptome on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/it/tags/transcriptome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Maternal immune activation dysregulation of the fetal brain transcriptome and relevance to the pathophysiology of autism spectrum disorder</title>
+      <link>/it/publication/lombardo-maternal-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/it/publication/lombardo-maternal-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical cortical transcriptome disorganization in autism</title>
+      <link>/it/publication/lombardo-hierarchical-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/publication/lombardo-hierarchical-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of autism by translation and immune/inflammation coexpressed genes in toddlers from pediatric community practices</title>
+      <link>/it/publication/pramparo-prediction-2015/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0300</pubDate>
+      
+      <guid>/it/publication/pramparo-prediction-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

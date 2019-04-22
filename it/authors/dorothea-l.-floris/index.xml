@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dorothea L. Floris on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/it/authors/dorothea-l.-floris/</link>
+    <description>Recent content in Dorothea L. Floris on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/it/authors/dorothea-l.-floris/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Imaging sex/gender and autism in the brain: Etiological implications</title>
+      <link>/it/publication/lai-imaging-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/publication/lai-imaging-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atypically rightward cerebral asymmetry in male adults with autism stratifies individuals with and without language delay</title>
+      <link>/it/publication/floris-atypically-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/it/publication/floris-atypically-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Executive Function on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/it/tags/executive-function/</link>
+    <description>Recent content in Executive Function on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="/it/tags/executive-function/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The neuropsychology of male adults with high-functioning autism or asperger syndrome</title>
+      <link>/it/publication/wilson-neuropsychology-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate>
+      
+      <guid>/it/publication/wilson-neuropsychology-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognition in males and females with autism: similarities and differences</title>
+      <link>/it/publication/lai-cognition-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0200</pubDate>
+      
+      <guid>/it/publication/lai-cognition-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcelo Queiroz Hoexter on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/authors/marcelo-queiroz-hoexter/</link>
+    <description>Recent content in Marcelo Queiroz Hoexter on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Apr 2013 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="/authors/marcelo-queiroz-hoexter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inter-regional cortical thickness correlations are associated with autistic symptoms: A machine-learning approach</title>
+      <link>/publication/sato-inter-regional-2013/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/sato-inter-regional-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

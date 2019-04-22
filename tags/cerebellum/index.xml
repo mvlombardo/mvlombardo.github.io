@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cerebellum on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/tags/cerebellum/</link>
+    <description>Recent content in Cerebellum on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/cerebellum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Altered Connectivity Between Cerebellum, Visual, and Sensory-Motor Networks in Autism Spectrum Disorder: Results from the EU-AIMS Longitudinal European Autism Project</title>
+      <link>/publication/oldehinkel-altered-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/oldehinkel-altered-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving effect size estimation and statistical power with multi-echo fMRI and its impact on understanding the neural systems supporting mentalizing</title>
+      <link>/publication/lombardo-improving-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/lombardo-improving-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General and specific effects of early-life psychosocial adversities on adolescent grey matter volume</title>
+      <link>/publication/walsh-general-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/walsh-general-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

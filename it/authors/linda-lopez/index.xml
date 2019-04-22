@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linda Lopez on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/it/authors/linda-lopez/</link>
+    <description>Recent content in Linda Lopez on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/it/authors/linda-lopez/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Large-scale associations between the leukocyte transcriptome and BOLD responses to speech differ in autism early language outcome subtypes</title>
+      <link>/it/publication/lombardo-large-scale-2018/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/it/publication/lombardo-large-scale-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell cycle networks link gene expression dysregulation, mutation, and brain maldevelopment in autistic toddlers</title>
+      <link>/it/publication/pramparo-cell-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/it/publication/pramparo-cell-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of autism by translation and immune/inflammation coexpressed genes in toddlers from pediatric community practices</title>
+      <link>/it/publication/pramparo-prediction-2015/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0300</pubDate>
+      
+      <guid>/it/publication/pramparo-prediction-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter A. Bandettini on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/it/authors/peter-a.-bandettini/</link>
+    <description>Recent content in Peter A. Bandettini on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/it/authors/peter-a.-bandettini/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multi-echo fMRI: A review of applications in fMRI denoising and analysis of BOLD signals</title>
+      <link>/it/publication/kundu-multi-echo-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/publication/kundu-multi-echo-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

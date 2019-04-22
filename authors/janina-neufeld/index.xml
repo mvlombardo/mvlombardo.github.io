@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Janina Neufeld on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/authors/janina-neufeld/</link>
+    <description>Recent content in Janina Neufeld on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="/authors/janina-neufeld/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EU-AIMS Longitudinal European Autism Project (LEAP): the autism twin cohort</title>
+      <link>/publication/isaksson-eu-aims-2018/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/publication/isaksson-eu-aims-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
