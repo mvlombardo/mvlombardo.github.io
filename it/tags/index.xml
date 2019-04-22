@@ -219,11 +219,11 @@
     </item>
     
     <item>
-      <title>Mentalizing</title>
-      <link>/it/tags/mentalizing/</link>
+      <title>Heterogeneity</title>
+      <link>/it/tags/heterogeneity/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
       
-      <guid>/it/tags/mentalizing/</guid>
+      <guid>/it/tags/heterogeneity/</guid>
       <description></description>
     </item>
     
@@ -264,11 +264,11 @@
     </item>
     
     <item>
-      <title>heterogeneity</title>
-      <link>/it/tags/heterogeneity/</link>
+      <title>mentalizing</title>
+      <link>/it/tags/mentalizing/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
       
-      <guid>/it/tags/heterogeneity/</guid>
+      <guid>/it/tags/mentalizing/</guid>
       <description></description>
     </item>
     
@@ -1065,15 +1065,6 @@
     </item>
     
     <item>
-      <title>Intelligence</title>
-      <link>/it/tags/intelligence/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Intranasal</title>
       <link>/it/tags/intranasal/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1169,15 +1160,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/nerve-net/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neuroimaging</title>
-      <link>/it/tags/neuroimaging/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/neuroimaging/</guid>
       <description></description>
     </item>
     
@@ -1317,6 +1299,15 @@
     </item>
     
     <item>
+      <title>Sex differences</title>
+      <link>/it/tags/sex-differences/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/sex-differences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Siblings</title>
       <link>/it/tags/siblings/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1371,7 +1362,7 @@
     </item>
     
     <item>
-      <title>Systems biology</title>
+      <title>Systems Biology</title>
       <link>/it/tags/systems-biology/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
@@ -1394,6 +1385,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voxel-based morphometry</title>
+      <link>/it/tags/voxel-based-morphometry/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/voxel-based-morphometry/</guid>
       <description></description>
     </item>
     
@@ -1506,6 +1506,15 @@
     </item>
     
     <item>
+      <title>intelligence</title>
+      <link>/it/tags/intelligence/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>lamination</title>
       <link>/it/tags/lamination/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1515,11 +1524,11 @@
     </item>
     
     <item>
-      <title>sex differences</title>
-      <link>/it/tags/sex-differences/</link>
+      <title>neuroimaging</title>
+      <link>/it/tags/neuroimaging/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
-      <guid>/it/tags/sex-differences/</guid>
+      <guid>/it/tags/neuroimaging/</guid>
       <description></description>
     </item>
     
@@ -1556,15 +1565,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/systemizing-mechanism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>voxel based morphometry</title>
-      <link>/it/tags/voxel-based-morphometry/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/voxel-based-morphometry/</guid>
       <description></description>
     </item>
     
@@ -1736,6 +1736,15 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/affective-symptoms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexithymia</title>
+      <link>/it/tags/alexithymia/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/alexithymia/</guid>
       <description></description>
     </item>
     
@@ -2033,15 +2042,6 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/violence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>alexithymia</title>
-      <link>/it/tags/alexithymia/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/alexithymia/</guid>
       <description></description>
     </item>
     

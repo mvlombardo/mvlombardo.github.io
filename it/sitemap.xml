@@ -1780,18 +1780,18 @@
   </url>
   
   <url>
-    <loc>/it/tags/mentalizing/</loc>
+    <loc>/it/tags/heterogeneity/</loc>
     <lastmod>2018-10-01T00:00:00+03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/mentalizing/"
+                href="/tags/heterogeneity/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="/it/tags/mentalizing/"
+                href="/it/tags/heterogeneity/"
                 />
   </url>
   
@@ -1906,18 +1906,18 @@
   </url>
   
   <url>
-    <loc>/it/tags/heterogeneity/</loc>
+    <loc>/it/tags/mentalizing/</loc>
     <lastmod>2018-10-01T00:00:00+03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/heterogeneity/"
+                href="/tags/mentalizing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="/it/tags/heterogeneity/"
+                href="/it/tags/mentalizing/"
                 />
   </url>
   
@@ -5632,22 +5632,6 @@
   </url>
   
   <url>
-    <loc>/it/tags/intelligence/</loc>
-    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/tags/intelligence/"
-                />
-  </url>
-  
-  <url>
     <loc>/it/tags/intranasal/</loc>
     <lastmod>2017-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -5807,22 +5791,6 @@
   </url>
   
   <url>
-    <loc>/it/authors/m.-c.-lai/</loc>
-    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/m.-c.-lai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/authors/m.-c.-lai/"
-                />
-  </url>
-  
-  <url>
     <loc>/it/authors/m.-catani/</loc>
     <lastmod>2017-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -5851,6 +5819,22 @@
                 rel="alternate"
                 hreflang="it"
                 href="/it/authors/m.-t.-de-schotten/"
+                />
+  </url>
+  
+  <url>
+    <loc>/it/authors/m.-c.-lai/</loc>
+    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/m.-c.-lai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/authors/m.-c.-lai/"
                 />
   </url>
   
@@ -6074,22 +6058,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="/it/tags/nerve-net/"
-                />
-  </url>
-  
-  <url>
-    <loc>/it/tags/neuroimaging/</loc>
-    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/neuroimaging/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/tags/neuroimaging/"
                 />
   </url>
   
@@ -6524,6 +6492,22 @@
   </url>
   
   <url>
+    <loc>/it/tags/sex-differences/</loc>
+    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/sex-differences/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/sex-differences/"
+                />
+  </url>
+  
+  <url>
     <loc>/it/publication/zeestraten-sex-2017/</loc>
     <lastmod>2017-01-01T00:00:00+02:00</lastmod>
     <xhtml:link
@@ -6793,6 +6777,22 @@
   </url>
   
   <url>
+    <loc>/it/tags/voxel-based-morphometry/</loc>
+    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/voxel-based-morphometry/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/voxel-based-morphometry/"
+                />
+  </url>
+  
+  <url>
     <loc>/it/tags/white-matter/</loc>
     <lastmod>2017-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -6985,6 +6985,22 @@
   </url>
   
   <url>
+    <loc>/it/tags/intelligence/</loc>
+    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/intelligence/"
+                />
+  </url>
+  
+  <url>
     <loc>/it/tags/lamination/</loc>
     <lastmod>2017-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -7001,18 +7017,18 @@
   </url>
   
   <url>
-    <loc>/it/tags/sex-differences/</loc>
+    <loc>/it/tags/neuroimaging/</loc>
     <lastmod>2017-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/sex-differences/"
+                href="/tags/neuroimaging/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="/it/tags/sex-differences/"
+                href="/it/tags/neuroimaging/"
                 />
   </url>
   
@@ -7077,22 +7093,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="/it/tags/systemizing-mechanism/"
-                />
-  </url>
-  
-  <url>
-    <loc>/it/tags/voxel-based-morphometry/</loc>
-    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/voxel-based-morphometry/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/tags/voxel-based-morphometry/"
                 />
   </url>
   
@@ -7743,6 +7743,22 @@
                 rel="alternate"
                 hreflang="it"
                 href="/it/tags/affective-symptoms/"
+                />
+  </url>
+  
+  <url>
+    <loc>/it/tags/alexithymia/</loc>
+    <lastmod>2016-01-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/alexithymia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/alexithymia/"
                 />
   </url>
   
@@ -8873,22 +8889,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="/it/tags/violence/"
-                />
-  </url>
-  
-  <url>
-    <loc>/it/tags/alexithymia/</loc>
-    <lastmod>2016-01-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/alexithymia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/tags/alexithymia/"
                 />
   </url>
   
