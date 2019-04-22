@@ -6,9 +6,28 @@
     <description>Recent content in admin on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
+    <lastBuildDate>Mon, 22 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/it/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ciao mondo</title>
+      <link>/it/news/hello-world/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/it/news/hello-world/</guid>
+      <description>Primo post</description>
+    </item>
+    
+    <item>
+      <title>Posizioni di dottorato</title>
+      <link>/it/news/phd-positions/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/it/news/phd-positions/</guid>
+      <description>Vieni a far parte del laboratorio!</description>
+    </item>
     
     <item>
       <title></title>

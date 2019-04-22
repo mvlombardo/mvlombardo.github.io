@@ -6,10 +6,19 @@
     <description>Recent content in Authors on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/it/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>admin</title>
+      <link>/it/authors/admin/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/it/authors/admin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>**EU-AIMS LEAP group**</title>
@@ -93,7 +102,7 @@
     </item>
     
     <item>
-      <title>Flavio Dell&#39;Acqua</title>
+      <title>Flavio dell’Acqua</title>
       <link>/it/authors/flavio-dellacqua/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
       
@@ -426,6 +435,15 @@
     </item>
     
     <item>
+      <title>**MRC AIMS Consortium**</title>
+      <link>/it/authors/mrc-aims-consortium/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/it/authors/mrc-aims-consortium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cynthia Carter Barnes</title>
       <link>/it/authors/cynthia-carter-barnes/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0200</pubDate>
@@ -494,15 +512,6 @@
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0200</pubDate>
       
       <guid>/it/authors/lisa-eyler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mrc Aims Consortium</title>
-      <link>/it/authors/mrc-aims-consortium/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/it/authors/mrc-aims-consortium/</guid>
       <description></description>
     </item>
     
@@ -957,7 +966,7 @@
     </item>
     
     <item>
-      <title>Flavio Dell&#39; Acqua</title>
+      <title>Flavio Dell’ Acqua</title>
       <link>/it/authors/flavio-dell-acqua/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0300</pubDate>
       
@@ -1200,7 +1209,7 @@
     </item>
     
     <item>
-      <title>Xavier Liogier D&#39;ardhuy</title>
+      <title>Xavier Liogier D’ardhuy</title>
       <link>/it/authors/xavier-liogier-dardhuy/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0300</pubDate>
       
@@ -1947,7 +1956,7 @@
     </item>
     
     <item>
-      <title>R. a. I. Bethlehem</title>
+      <title>R. A. I. Bethlehem</title>
       <link>/it/authors/r.-a.-i.-bethlehem/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
@@ -3581,15 +3590,6 @@
       <pubDate>Sat, 01 Mar 2008 00:00:00 +0200</pubDate>
       
       <guid>/it/authors/robert-s.-blumenfeld/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>admin</title>
-      <link>/it/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/it/authors/admin/</guid>
       <description></description>
     </item>
     

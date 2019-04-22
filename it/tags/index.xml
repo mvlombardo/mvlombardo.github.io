@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/it/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>People</title>
+      <link>/it/tags/people/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/it/tags/people/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cerebellum</title>
@@ -75,6 +84,15 @@
     </item>
     
     <item>
+      <title>Autism Spectrum Disorder</title>
+      <link>/it/tags/autism-spectrum-disorder/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/autism-spectrum-disorder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Autistic Disorder</title>
       <link>/it/tags/autistic-disorder/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
@@ -125,15 +143,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/adaptive-functioning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>autism spectrum disorder</title>
-      <link>/it/tags/autism-spectrum-disorder/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/autism-spectrum-disorder/</guid>
       <description></description>
     </item>
     
@@ -210,11 +219,11 @@
     </item>
     
     <item>
-      <title>Heterogeneity</title>
-      <link>/it/tags/heterogeneity/</link>
+      <title>Mentalizing</title>
+      <link>/it/tags/mentalizing/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
       
-      <guid>/it/tags/heterogeneity/</guid>
+      <guid>/it/tags/mentalizing/</guid>
       <description></description>
     </item>
     
@@ -255,11 +264,11 @@
     </item>
     
     <item>
-      <title>mentalizing</title>
-      <link>/it/tags/mentalizing/</link>
+      <title>heterogeneity</title>
+      <link>/it/tags/heterogeneity/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
       
-      <guid>/it/tags/mentalizing/</guid>
+      <guid>/it/tags/heterogeneity/</guid>
       <description></description>
     </item>
     
@@ -741,6 +750,15 @@
     </item>
     
     <item>
+      <title>Cognition</title>
+      <link>/it/tags/cognition/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cognition Disorders</title>
       <link>/it/tags/cognition-disorders/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1016,15 +1034,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/image-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Imaging</title>
-      <link>/it/tags/imaging/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/imaging/</guid>
       <description></description>
     </item>
     
@@ -1452,15 +1461,6 @@
     </item>
     
     <item>
-      <title>cognition</title>
-      <link>/it/tags/cognition/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/cognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>coping</title>
       <link>/it/tags/coping/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1493,6 +1493,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/hypersystemizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>imaging</title>
+      <link>/it/tags/imaging/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/imaging/</guid>
       <description></description>
     </item>
     
@@ -2199,7 +2208,7 @@
     </item>
     
     <item>
-      <title>Asperger syndrome</title>
+      <title>Asperger Syndrome</title>
       <link>/it/tags/asperger-syndrome/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
       
@@ -2649,15 +2658,6 @@
     </item>
     
     <item>
-      <title>Semantics</title>
-      <link>/it/tags/semantics/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/semantics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Support Vector Machine</title>
       <link>/it/tags/support-vector-machine/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
@@ -2708,6 +2708,15 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/self-report-questionnaire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semantics</title>
+      <link>/it/tags/semantics/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/semantics/</guid>
       <description></description>
     </item>
     
