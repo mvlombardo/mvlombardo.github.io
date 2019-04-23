@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Autism</title>
+      <link>/it/tags/autism/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/autism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cerebellum</title>
       <link>/it/tags/cerebellum/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
@@ -62,15 +71,6 @@
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/visual-motor-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>autism</title>
-      <link>/it/tags/autism/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/autism/</guid>
       <description></description>
     </item>
     
@@ -651,7 +651,7 @@
     </item>
     
     <item>
-      <title>temporal discounting</title>
+      <title>Temporal discounting</title>
       <link>/it/tags/temporal-discounting/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0300</pubDate>
       
@@ -822,7 +822,7 @@
     </item>
     
     <item>
-      <title>Diffusion Tensor Imaging</title>
+      <title>Diffusion tensor imaging</title>
       <link>/it/tags/diffusion-tensor-imaging/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
@@ -1182,15 +1182,6 @@
     </item>
     
     <item>
-      <title>Neuroimaging</title>
-      <link>/it/tags/neuroimaging/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/neuroimaging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Oxytocin</title>
       <link>/it/tags/oxytocin/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1407,15 +1398,6 @@
     </item>
     
     <item>
-      <title>Voxel-based morphometry</title>
-      <link>/it/tags/voxel-based-morphometry/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/voxel-based-morphometry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>White Matter</title>
       <link>/it/tags/white-matter/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1524,6 +1506,15 @@
     </item>
     
     <item>
+      <title>neuroimaging</title>
+      <link>/it/tags/neuroimaging/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/neuroimaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>sex differences</title>
       <link>/it/tags/sex-differences/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1565,6 +1556,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/systemizing-mechanism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>voxel based morphometry</title>
+      <link>/it/tags/voxel-based-morphometry/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/voxel-based-morphometry/</guid>
       <description></description>
     </item>
     
@@ -1740,15 +1740,6 @@
     </item>
     
     <item>
-      <title>Alexithymia</title>
-      <link>/it/tags/alexithymia/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/alexithymia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Antisocial Personality Disorder</title>
       <link>/it/tags/antisocial-personality-disorder/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
@@ -1911,7 +1902,7 @@
     </item>
     
     <item>
-      <title>Pattern Recognition</title>
+      <title>Pattern recognition</title>
       <link>/it/tags/pattern-recognition/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
       
@@ -2042,6 +2033,15 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/violence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alexithymia</title>
+      <link>/it/tags/alexithymia/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/alexithymia/</guid>
       <description></description>
     </item>
     
@@ -2658,6 +2658,15 @@
     </item>
     
     <item>
+      <title>Semantics</title>
+      <link>/it/tags/semantics/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/semantics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Support Vector Machine</title>
       <link>/it/tags/support-vector-machine/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
@@ -2708,15 +2717,6 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/self-report-questionnaire/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>semantics</title>
-      <link>/it/tags/semantics/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/semantics/</guid>
       <description></description>
     </item>
     
