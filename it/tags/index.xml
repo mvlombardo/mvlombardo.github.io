@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Mon, 22 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/it/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Development</title>
+      <link>/it/tags/development/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/it/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneity</title>
+      <link>/it/tags/heterogeneity/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/it/tags/heterogeneity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanisms</title>
+      <link>/it/tags/mechanisms/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/it/tags/mechanisms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>People</title>
@@ -17,15 +44,6 @@
       <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/it/tags/people/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Autism</title>
-      <link>/it/tags/autism/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/autism/</guid>
       <description></description>
     </item>
     
@@ -71,6 +89,15 @@
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/visual-motor-integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>autism</title>
+      <link>/it/tags/autism/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/autism/</guid>
       <description></description>
     </item>
     
@@ -219,15 +246,6 @@
     </item>
     
     <item>
-      <title>Mentalizing</title>
-      <link>/it/tags/mentalizing/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
-      
-      <guid>/it/tags/mentalizing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>camouflaging</title>
       <link>/it/tags/camouflaging/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
@@ -264,11 +282,11 @@
     </item>
     
     <item>
-      <title>heterogeneity</title>
-      <link>/it/tags/heterogeneity/</link>
+      <title>mentalizing</title>
+      <link>/it/tags/mentalizing/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
       
-      <guid>/it/tags/heterogeneity/</guid>
+      <guid>/it/tags/mentalizing/</guid>
       <description></description>
     </item>
     
@@ -651,7 +669,7 @@
     </item>
     
     <item>
-      <title>Temporal discounting</title>
+      <title>temporal discounting</title>
       <link>/it/tags/temporal-discounting/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0300</pubDate>
       
@@ -665,6 +683,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/administration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adults</title>
+      <link>/it/tags/adults/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/adults/</guid>
       <description></description>
     </item>
     
@@ -822,7 +849,7 @@
     </item>
     
     <item>
-      <title>Diffusion tensor imaging</title>
+      <title>Diffusion Tensor Imaging</title>
       <link>/it/tags/diffusion-tensor-imaging/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
@@ -1398,29 +1425,11 @@
     </item>
     
     <item>
-      <title>White Matter</title>
-      <link>/it/tags/white-matter/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/white-matter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Young Adult</title>
       <link>/it/tags/young-adult/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/young-adult/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>adults</title>
-      <link>/it/tags/adults/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/adults/</guid>
       <description></description>
     </item>
     
@@ -1565,6 +1574,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/voxel-based-morphometry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>white matter</title>
+      <link>/it/tags/white-matter/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/white-matter/</guid>
       <description></description>
     </item>
     
@@ -1740,6 +1758,15 @@
     </item>
     
     <item>
+      <title>Alexithymia</title>
+      <link>/it/tags/alexithymia/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/alexithymia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Antisocial Personality Disorder</title>
       <link>/it/tags/antisocial-personality-disorder/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
@@ -1902,7 +1929,7 @@
     </item>
     
     <item>
-      <title>Pattern recognition</title>
+      <title>Pattern Recognition</title>
       <link>/it/tags/pattern-recognition/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
       
@@ -2033,15 +2060,6 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/violence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>alexithymia</title>
-      <link>/it/tags/alexithymia/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/alexithymia/</guid>
       <description></description>
     </item>
     
@@ -2244,6 +2262,15 @@
     </item>
     
     <item>
+      <title>Neuroanatomy</title>
+      <link>/it/tags/neuroanatomy/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
+      
+      <guid>/it/tags/neuroanatomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Neurological</title>
       <link>/it/tags/neurological/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
@@ -2267,15 +2294,6 @@
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
       
       <guid>/it/tags/individual-differences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neuroanatomy</title>
-      <link>/it/tags/neuroanatomy/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
-      
-      <guid>/it/tags/neuroanatomy/</guid>
       <description></description>
     </item>
     
@@ -2658,15 +2676,6 @@
     </item>
     
     <item>
-      <title>Semantics</title>
-      <link>/it/tags/semantics/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/semantics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Support Vector Machine</title>
       <link>/it/tags/support-vector-machine/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
@@ -2717,6 +2726,15 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/self-report-questionnaire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semantics</title>
+      <link>/it/tags/semantics/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/semantics/</guid>
       <description></description>
     </item>
     

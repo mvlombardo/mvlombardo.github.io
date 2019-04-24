@@ -1,15 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>heterogeneity on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <title>Heterogeneity on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
     <link>/it/tags/heterogeneity/</link>
-    <description>Recent content in heterogeneity on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <description>Recent content in Heterogeneity on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/it/tags/heterogeneity/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Connectome</title>
+      <link>/it/research/connectome/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/it/research/connectome/</guid>
+      <description>Wiring and firing together in space and time.</description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>/it/research/chronogeneity/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/it/research/chronogeneity/</guid>
+      <description>Traveling through the 4th dimension.</description>
+    </item>
+    
+    <item>
+      <title>Heterogeneity</title>
+      <link>/it/research/heterogeneity/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/it/research/heterogeneity/</guid>
+      <description>All models are wrong, but some are useful.</description>
+    </item>
+    
+    <item>
+      <title>Outcomes</title>
+      <link>/it/research/languageoutcome/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/it/research/languageoutcome/</guid>
+      <description>Endpoints with high clinical relevance and importance.</description>
+    </item>
+    
+    <item>
+      <title>Sex/Gender</title>
+      <link>/it/research/sex-gender/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/it/research/sex-gender/</guid>
+      <description>It matters?</description>
+    </item>
+    
+    <item>
+      <title>Social</title>
+      <link>/it/research/social/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/it/research/social/</guid>
+      <description>Brains interacting with other brains.</description>
+    </item>
     
     <item>
       <title>Neural self-representation in autistic women and association with &#39;compensatory camouflaging&#39;</title>

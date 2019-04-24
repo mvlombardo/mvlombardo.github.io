@@ -102,7 +102,7 @@
     </item>
     
     <item>
-      <title>Flavio Dell&#39;Acqua</title>
+      <title>Flavio dell’Acqua</title>
       <link>/authors/flavio-dellacqua/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
       
@@ -1848,6 +1848,15 @@
     </item>
     
     <item>
+      <title>M. C. Lai</title>
+      <link>/authors/m.-c.-lai/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/m.-c.-lai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>M. Catani</title>
       <link>/authors/m.-catani/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1862,15 +1871,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/authors/m.-t.-de-schotten/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M.-C. Lai</title>
-      <link>/authors/m.-c.-lai/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/authors/m.-c.-lai/</guid>
       <description></description>
     </item>
     
@@ -1956,7 +1956,7 @@
     </item>
     
     <item>
-      <title>R. A. I. Bethlehem</title>
+      <title>R. a. I. Bethlehem</title>
       <link>/authors/r.-a.-i.-bethlehem/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
@@ -3590,6 +3590,78 @@
       <pubDate>Sat, 01 Mar 2008 00:00:00 +0200</pubDate>
       
       <guid>/authors/robert-s.-blumenfeld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agozzi</title>
+      <link>/authors/agozzi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/agozzi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bauyeung</title>
+      <link>/authors/bauyeung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/bauyeung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bchakrabarti</title>
+      <link>/authors/bchakrabarti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/bchakrabarti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecourchesne</title>
+      <link>/authors/ecourchesne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ecourchesne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kpierce</title>
+      <link>/authors/kpierce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/kpierce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mclai</title>
+      <link>/authors/mclai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/mclai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rbethlehem</title>
+      <link>/authors/rbethlehem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/rbethlehem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sbaroncohen</title>
+      <link>/authors/sbaroncohen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/sbaroncohen/</guid>
       <description></description>
     </item>
     

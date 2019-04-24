@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>agozzi on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/it/authors/agozzi/</link>
+    <description>Recent content in agozzi on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    
+	<atom:link href="/it/authors/agozzi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/it/author/agozzi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/it/author/agozzi/</guid>
+      <description>Dr Gozzi received a master degree in Biotechnology at the University of Verona (Italy) in 1998. Afterwards he joined the neuroscience centre of GlaxoSmithKline (GSK), a large research-based pharmaceutical company based in Verona (Italy) and Harlow (UK). At GSK he pioneered the use of functional magnetic resonance imaging (MRI) to describe the neural substrates modulated by pharmacological agents, a line of research that he also pursued to obtain a PhD degree in biomedical imaging with the University of Verona.</description>
+    </item>
+    
+  </channel>
+</rss>

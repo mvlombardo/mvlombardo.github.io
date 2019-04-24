@@ -49,6 +49,206 @@
   </url>
   
   <url>
+    <loc>/research/connectome/</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/research/connectome/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/research/connectome/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/development/</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/development/"
+                />
+  </url>
+  
+  <url>
+    <loc>/research/chronogeneity/</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/research/chronogeneity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/research/chronogeneity/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/heterogeneity/</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/heterogeneity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/heterogeneity/"
+                />
+  </url>
+  
+  <url>
+    <loc>/research/heterogeneity/</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/research/heterogeneity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/research/heterogeneity/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/mechanisms/</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/mechanisms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/mechanisms/"
+                />
+  </url>
+  
+  <url>
+    <loc>/research/neuralnoise/</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/research/neuralnoise/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/research/neuralnoise/"
+                />
+  </url>
+  
+  <url>
+    <loc>/research/languageoutcome/</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/research/languageoutcome/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/research/languageoutcome/"
+                />
+  </url>
+  
+  <url>
+    <loc>/research/prenatal/</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/research/prenatal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/research/prenatal/"
+                />
+  </url>
+  
+  <url>
+    <loc>/research/</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/research/"
+                />
+  </url>
+  
+  <url>
+    <loc>/research/sex-gender/</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/research/sex-gender/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/research/sex-gender/"
+                />
+  </url>
+  
+  <url>
+    <loc>/research/social/</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/research/social/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/research/social/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
     <lastmod>2019-04-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -107,22 +307,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/news/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
                 />
   </url>
   
@@ -218,22 +402,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/authors/andre-marquand/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/autism/</loc>
-    <lastmod>2019-03-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/tags/autism/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/autism/"
                 />
   </url>
   
@@ -665,6 +833,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="/authors/will-spooren/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/autism/</loc>
+    <lastmod>2019-03-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/autism/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/autism/"
                 />
   </url>
   
@@ -1765,22 +1949,6 @@
   </url>
   
   <url>
-    <loc>/tags/mentalizing/</loc>
-    <lastmod>2018-10-01T00:00:00+03:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/tags/mentalizing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/mentalizing/"
-                />
-  </url>
-  
-  <url>
     <loc>/publication/lai-neural-2018/</loc>
     <lastmod>2018-10-01T00:00:00+03:00</lastmod>
     <xhtml:link
@@ -1891,18 +2059,18 @@
   </url>
   
   <url>
-    <loc>/tags/heterogeneity/</loc>
+    <loc>/tags/mentalizing/</loc>
     <lastmod>2018-10-01T00:00:00+03:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="/it/tags/heterogeneity/"
+                href="/it/tags/mentalizing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/heterogeneity/"
+                href="/tags/mentalizing/"
                 />
   </url>
   
@@ -4344,22 +4512,6 @@
   </url>
   
   <url>
-    <loc>/tags/temporal-discounting/</loc>
-    <lastmod>2017-10-01T00:00:00+03:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/tags/temporal-discounting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/temporal-discounting/"
-                />
-  </url>
-  
-  <url>
     <loc>/authors/v.-giampietro/</loc>
     <lastmod>2017-10-01T00:00:00+03:00</lastmod>
     <priority>0</priority>
@@ -4372,6 +4524,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="/authors/v.-giampietro/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/temporal-discounting/</loc>
+    <lastmod>2017-10-01T00:00:00+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/temporal-discounting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/temporal-discounting/"
                 />
   </url>
   
@@ -4467,6 +4635,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/administration/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/adults/</loc>
+    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/adults/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/adults/"
                 />
   </url>
   
@@ -5808,6 +5992,22 @@
   </url>
   
   <url>
+    <loc>/authors/m.-c.-lai/</loc>
+    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/authors/m.-c.-lai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/m.-c.-lai/"
+                />
+  </url>
+  
+  <url>
     <loc>/authors/m.-catani/</loc>
     <lastmod>2017-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -5836,22 +6036,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/authors/m.-t.-de-schotten/"
-                />
-  </url>
-  
-  <url>
-    <loc>/authors/m.-c.-lai/</loc>
-    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/authors/m.-c.-lai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/m.-c.-lai/"
                 />
   </url>
   
@@ -6778,22 +6962,6 @@
   </url>
   
   <url>
-    <loc>/tags/white-matter/</loc>
-    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/tags/white-matter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/white-matter/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/young-adult/</loc>
     <lastmod>2017-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -6806,22 +6974,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/young-adult/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/adults/</loc>
-    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/tags/adults/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/adults/"
                 />
   </url>
   
@@ -7078,6 +7230,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/voxel-based-morphometry/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/white-matter/</loc>
+    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/white-matter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/white-matter/"
                 />
   </url>
   
@@ -7728,6 +7896,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/affective-symptoms/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/alexithymia/</loc>
+    <lastmod>2016-01-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/alexithymia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/alexithymia/"
                 />
   </url>
   
@@ -8862,22 +9046,6 @@
   </url>
   
   <url>
-    <loc>/tags/alexithymia/</loc>
-    <lastmod>2016-01-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/tags/alexithymia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/alexithymia/"
-                />
-  </url>
-  
-  <url>
     <loc>/tags/autistic-traits/</loc>
     <lastmod>2016-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -9452,6 +9620,22 @@
   </url>
   
   <url>
+    <loc>/tags/neuroanatomy/</loc>
+    <lastmod>2015-10-01T00:00:00+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/neuroanatomy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/neuroanatomy/"
+                />
+  </url>
+  
+  <url>
     <loc>/publication/lai-neuroanatomy-2015/</loc>
     <lastmod>2015-10-01T00:00:00+03:00</lastmod>
     <xhtml:link
@@ -9558,22 +9742,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/individual-differences/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/neuroanatomy/</loc>
-    <lastmod>2015-10-01T00:00:00+03:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/tags/neuroanatomy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/neuroanatomy/"
                 />
   </url>
   
@@ -10946,22 +11114,6 @@
   </url>
   
   <url>
-    <loc>/tags/semantics/</loc>
-    <lastmod>2015-01-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/tags/semantics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/semantics/"
-                />
-  </url>
-  
-  <url>
     <loc>/publication/lai-sexgender-2015/</loc>
     <lastmod>2015-01-01T00:00:00+02:00</lastmod>
     <xhtml:link
@@ -11131,6 +11283,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="/tags/self-report-questionnaire/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/semantics/</loc>
+    <lastmod>2015-01-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/semantics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/semantics/"
                 />
   </url>
   
@@ -15004,6 +15172,118 @@
   </url>
   
   <url>
+    <loc>/author/agozzi/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/author/agozzi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/agozzi/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/bauyeung/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/author/bauyeung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/bauyeung/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/bchakrabarti/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/author/bchakrabarti/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/bchakrabarti/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/ecourchesne/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/author/ecourchesne/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/ecourchesne/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/kpierce/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/author/kpierce/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/kpierce/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/mclai/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/author/mclai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/mclai/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/rbethlehem/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/author/rbethlehem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/rbethlehem/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/sbaroncohen/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/author/sbaroncohen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/sbaroncohen/"
+                />
+  </url>
+  
+  <url>
     <loc>/author/stavrostrakoshis/</loc>
     <xhtml:link
                 rel="alternate"
@@ -15058,6 +15338,126 @@
                 rel="alternate"
                 hreflang="en"
                 href="/slides/example/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/agozzi/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/authors/agozzi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/agozzi/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/bauyeung/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/authors/bauyeung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/bauyeung/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/bchakrabarti/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/authors/bchakrabarti/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/bchakrabarti/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/ecourchesne/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/authors/ecourchesne/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/ecourchesne/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/kpierce/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/authors/kpierce/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/kpierce/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/mclai/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/authors/mclai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/mclai/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/rbethlehem/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/authors/rbethlehem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/rbethlehem/"
+                />
+  </url>
+  
+  <url>
+    <loc>/authors/sbaroncohen/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/authors/sbaroncohen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/sbaroncohen/"
                 />
   </url>
   

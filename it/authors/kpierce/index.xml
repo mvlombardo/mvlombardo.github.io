@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kpierce on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/it/authors/kpierce/</link>
+    <description>Recent content in kpierce on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    
+	<atom:link href="/it/authors/kpierce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/it/author/kpierce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/it/author/kpierce/</guid>
+      <description>Karen Pierce is a Professor at the University of California, San Diego (UCSD) in the Department of Neurosciences and is Co-Director, UCSD Autism Center of Excellence. Prof Pierce has been studying autism for over 20 years and is a leading expert on the neural and clinical phenotype of ASD. Her research spans a range of topics from early screening and detection to eye tracking and functional magnetic resonance imaging (fMRI). Her early detection approach that focuses on mobilizing pediatricians, called the 1-Year Well-Baby Check-Up Approach, has identified several hundred ASD toddlers around the 1st birthday and has resulted in rapid treatment access.</description>
+    </item>
+    
+  </channel>
+</rss>
