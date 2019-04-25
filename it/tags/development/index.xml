@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Connectome</title>
-      <link>/it/research/connectome/</link>
+      <title>Connectomics</title>
+      <link>/it/research/connectomics/</link>
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/it/research/connectome/</guid>
+      <guid>/it/research/connectomics/</guid>
       <description>Wiring and firing together in space and time.</description>
     </item>
     
@@ -62,7 +62,7 @@
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/it/research/social/</guid>
-      <description>Brains interacting with other brains.</description>
+      <description>Brains interacting with other brains in context.</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Heterogeneity on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <title>heterogeneity on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
     <link>/tags/heterogeneity/</link>
-    <description>Recent content in Heterogeneity on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <description>Recent content in heterogeneity on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Apr 2019 00:00:00 +0000</lastBuildDate>
@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Connectome</title>
-      <link>/research/connectome/</link>
+      <title>Connectomics</title>
+      <link>/research/connectomics/</link>
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research/connectome/</guid>
+      <guid>/research/connectomics/</guid>
       <description>Wiring and firing together in space and time.</description>
     </item>
     
@@ -48,6 +48,15 @@
     </item>
     
     <item>
+      <title>Neural Noise</title>
+      <link>/research/neuralnoise/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/research/neuralnoise/</guid>
+      <description>The complicated tango between excitation and inhibition in the brain.</description>
+    </item>
+    
+    <item>
       <title>Outcomes</title>
       <link>/research/languageoutcome/</link>
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
@@ -71,7 +80,7 @@
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/research/social/</guid>
-      <description>Brains interacting with other brains.</description>
+      <description>Brains interacting with other brains in context.</description>
     </item>
     
     <item>

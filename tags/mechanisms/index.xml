@@ -12,11 +12,11 @@
     
     
     <item>
-      <title>Connectome</title>
-      <link>/research/connectome/</link>
+      <title>Connectomics</title>
+      <link>/research/connectomics/</link>
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research/connectome/</guid>
+      <guid>/research/connectomics/</guid>
       <description>Wiring and firing together in space and time.</description>
     </item>
     
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>Noise</title>
+      <title>Neural Noise</title>
       <link>/research/neuralnoise/</link>
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -53,7 +53,7 @@
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/research/social/</guid>
-      <description>Brains interacting with other brains.</description>
+      <description>Brains interacting with other brains in context.</description>
     </item>
     
   </channel>

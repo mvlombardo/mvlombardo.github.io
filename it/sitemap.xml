@@ -49,17 +49,17 @@
   </url>
   
   <url>
-    <loc>/it/research/connectome/</loc>
+    <loc>/it/research/connectomics/</loc>
     <lastmod>2019-04-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/research/connectome/"
+                href="/research/connectomics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="/it/research/connectome/"
+                href="/it/research/connectomics/"
                 />
   </url>
   
@@ -106,22 +106,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="/it/research/genomics/"
-                />
-  </url>
-  
-  <url>
-    <loc>/it/tags/heterogeneity/</loc>
-    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/heterogeneity/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/tags/heterogeneity/"
                 />
   </url>
   
@@ -260,6 +244,22 @@
                 rel="alternate"
                 hreflang="it"
                 href="/it/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/it/tags/heterogeneity/</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/heterogeneity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/heterogeneity/"
                 />
   </url>
   
@@ -1502,6 +1502,22 @@
   </url>
   
   <url>
+    <loc>/it/authors/mrc-aims-consortium/</loc>
+    <lastmod>2018-12-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/mrc-aims-consortium/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/authors/mrc-aims-consortium/"
+                />
+  </url>
+  
+  <url>
     <loc>/it/publication/gorriz-machine-2018/</loc>
     <lastmod>2018-12-01T00:00:00+02:00</lastmod>
     <xhtml:link
@@ -1656,22 +1672,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="/it/authors/lisa-eyler/"
-                />
-  </url>
-  
-  <url>
-    <loc>/it/authors/mrc-aims-consortium/</loc>
-    <lastmod>2018-12-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/mrc-aims-consortium/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/authors/mrc-aims-consortium/"
                 />
   </url>
   
@@ -4527,22 +4527,6 @@
   </url>
   
   <url>
-    <loc>/it/tags/temporal-discounting/</loc>
-    <lastmod>2017-10-01T00:00:00+03:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/temporal-discounting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/tags/temporal-discounting/"
-                />
-  </url>
-  
-  <url>
     <loc>/it/authors/v.-giampietro/</loc>
     <lastmod>2017-10-01T00:00:00+03:00</lastmod>
     <priority>0</priority>
@@ -4555,6 +4539,22 @@
                 rel="alternate"
                 hreflang="it"
                 href="/it/authors/v.-giampietro/"
+                />
+  </url>
+  
+  <url>
+    <loc>/it/tags/temporal-discounting/</loc>
+    <lastmod>2017-10-01T00:00:00+03:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/temporal-discounting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/temporal-discounting/"
                 />
   </url>
   
@@ -5816,22 +5816,6 @@
   </url>
   
   <url>
-    <loc>/it/tags/intelligence/</loc>
-    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/tags/intelligence/"
-                />
-  </url>
-  
-  <url>
     <loc>/it/tags/intranasal/</loc>
     <lastmod>2017-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -5991,22 +5975,6 @@
   </url>
   
   <url>
-    <loc>/it/authors/m.-c.-lai/</loc>
-    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/authors/m.-c.-lai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/authors/m.-c.-lai/"
-                />
-  </url>
-  
-  <url>
     <loc>/it/authors/m.-catani/</loc>
     <lastmod>2017-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -6035,6 +6003,22 @@
                 rel="alternate"
                 hreflang="it"
                 href="/it/authors/m.-t.-de-schotten/"
+                />
+  </url>
+  
+  <url>
+    <loc>/it/authors/m.-c.-lai/</loc>
+    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/m.-c.-lai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/authors/m.-c.-lai/"
                 />
   </url>
   
@@ -6258,22 +6242,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="/it/tags/nerve-net/"
-                />
-  </url>
-  
-  <url>
-    <loc>/it/tags/neuroimaging/</loc>
-    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/neuroimaging/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/tags/neuroimaging/"
                 />
   </url>
   
@@ -7153,6 +7121,22 @@
   </url>
   
   <url>
+    <loc>/it/tags/intelligence/</loc>
+    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/intelligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/intelligence/"
+                />
+  </url>
+  
+  <url>
     <loc>/it/tags/lamination/</loc>
     <lastmod>2017-01-01T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -7165,6 +7149,22 @@
                 rel="alternate"
                 hreflang="it"
                 href="/it/tags/lamination/"
+                />
+  </url>
+  
+  <url>
+    <loc>/it/tags/neuroimaging/</loc>
+    <lastmod>2017-01-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/neuroimaging/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/neuroimaging/"
                 />
   </url>
   
@@ -7911,6 +7911,22 @@
                 rel="alternate"
                 hreflang="it"
                 href="/it/tags/affective-symptoms/"
+                />
+  </url>
+  
+  <url>
+    <loc>/it/tags/alexithymia/</loc>
+    <lastmod>2016-01-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/alexithymia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/alexithymia/"
                 />
   </url>
   
@@ -9041,22 +9057,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="/it/tags/violence/"
-                />
-  </url>
-  
-  <url>
-    <loc>/it/tags/alexithymia/</loc>
-    <lastmod>2016-01-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/alexithymia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/tags/alexithymia/"
                 />
   </url>
   
@@ -11129,6 +11129,22 @@
   </url>
   
   <url>
+    <loc>/it/tags/semantics/</loc>
+    <lastmod>2015-01-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/semantics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="/it/tags/semantics/"
+                />
+  </url>
+  
+  <url>
     <loc>/it/publication/lai-sexgender-2015/</loc>
     <lastmod>2015-01-01T00:00:00+02:00</lastmod>
     <xhtml:link
@@ -11298,22 +11314,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="/it/tags/self-report-questionnaire/"
-                />
-  </url>
-  
-  <url>
-    <loc>/it/tags/semantics/</loc>
-    <lastmod>2015-01-01T00:00:00+02:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/semantics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="/it/tags/semantics/"
                 />
   </url>
   

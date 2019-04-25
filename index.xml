@@ -36,11 +36,11 @@
     </item>
     
     <item>
-      <title>Connectome</title>
-      <link>/research/connectome/</link>
+      <title>Connectomics</title>
+      <link>/research/connectomics/</link>
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/research/connectome/</guid>
+      <guid>/research/connectomics/</guid>
       <description>&lt;p&gt;The brain is a multi-scale complex network. Unraveling network organization and disorganization is a key to understanding how variability in human brain and behavior manifests. In this project we use in-vivo neuroimaging techniques to characterize how the connectome is organized in neurodevelopmental conditions such as autism, and how that organization dynamically changes over multiple time-scales.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Relevant Publications&lt;/strong&gt;&lt;/p&gt;
@@ -120,7 +120,7 @@
     </item>
     
     <item>
-      <title>Noise</title>
+      <title>Neural Noise</title>
       <link>/research/neuralnoise/</link>
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
       
