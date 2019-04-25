@@ -669,7 +669,7 @@
     </item>
     
     <item>
-      <title>temporal discounting</title>
+      <title>Temporal discounting</title>
       <link>/it/tags/temporal-discounting/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0300</pubDate>
       
@@ -683,15 +683,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/administration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adults</title>
-      <link>/it/tags/adults/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/adults/</guid>
       <description></description>
     </item>
     
@@ -1209,6 +1200,15 @@
     </item>
     
     <item>
+      <title>Neuroimaging</title>
+      <link>/it/tags/neuroimaging/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/neuroimaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Oxytocin</title>
       <link>/it/tags/oxytocin/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1425,11 +1425,29 @@
     </item>
     
     <item>
+      <title>White Matter</title>
+      <link>/it/tags/white-matter/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/white-matter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Young Adult</title>
       <link>/it/tags/young-adult/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/young-adult/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adults</title>
+      <link>/it/tags/adults/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/adults/</guid>
       <description></description>
     </item>
     
@@ -1515,15 +1533,6 @@
     </item>
     
     <item>
-      <title>neuroimaging</title>
-      <link>/it/tags/neuroimaging/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/neuroimaging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>sex differences</title>
       <link>/it/tags/sex-differences/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1574,15 +1583,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/voxel-based-morphometry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>white matter</title>
-      <link>/it/tags/white-matter/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/white-matter/</guid>
       <description></description>
     </item>
     
@@ -1754,15 +1754,6 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/affective-symptoms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alexithymia</title>
-      <link>/it/tags/alexithymia/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/alexithymia/</guid>
       <description></description>
     </item>
     
@@ -2064,6 +2055,15 @@
     </item>
     
     <item>
+      <title>alexithymia</title>
+      <link>/it/tags/alexithymia/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/alexithymia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>autistic traits</title>
       <link>/it/tags/autistic-traits/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
@@ -2262,15 +2262,6 @@
     </item>
     
     <item>
-      <title>Neuroanatomy</title>
-      <link>/it/tags/neuroanatomy/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
-      
-      <guid>/it/tags/neuroanatomy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Neurological</title>
       <link>/it/tags/neurological/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
@@ -2294,6 +2285,15 @@
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
       
       <guid>/it/tags/individual-differences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neuroanatomy</title>
+      <link>/it/tags/neuroanatomy/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
+      
+      <guid>/it/tags/neuroanatomy/</guid>
       <description></description>
     </item>
     
