@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Heterogeneity</title>
+      <link>/it/tags/heterogeneity/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/it/tags/heterogeneity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mechanisms</title>
       <link>/it/tags/mechanisms/</link>
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
@@ -30,20 +39,20 @@
     </item>
     
     <item>
-      <title>heterogeneity</title>
-      <link>/it/tags/heterogeneity/</link>
-      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/it/tags/heterogeneity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>People</title>
       <link>/it/tags/people/</link>
       <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/it/tags/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lombardo mv</title>
+      <link>/it/tags/lombardo-mv/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0300</pubDate>
+      
+      <guid>/it/tags/lombardo-mv/</guid>
       <description></description>
     </item>
     
@@ -102,24 +111,6 @@
     </item>
     
     <item>
-      <title>lombardo mv</title>
-      <link>/it/tags/lombardo-mv/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/lombardo-mv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Autism Spectrum Disorder</title>
-      <link>/it/tags/autism-spectrum-disorder/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/autism-spectrum-disorder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Autistic Disorder</title>
       <link>/it/tags/autistic-disorder/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
@@ -170,6 +161,15 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/adaptive-functioning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>autism spectrum disorder</title>
+      <link>/it/tags/autism-spectrum-disorder/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/autism-spectrum-disorder/</guid>
       <description></description>
     </item>
     
@@ -255,6 +255,15 @@
     </item>
     
     <item>
+      <title>Sex</title>
+      <link>/it/tags/sex/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/it/tags/sex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>camouflaging</title>
       <link>/it/tags/camouflaging/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
@@ -296,15 +305,6 @@
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
       
       <guid>/it/tags/self/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sex</title>
-      <link>/it/tags/sex/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
-      
-      <guid>/it/tags/sex/</guid>
       <description></description>
     </item>
     
@@ -669,7 +669,7 @@
     </item>
     
     <item>
-      <title>Temporal discounting</title>
+      <title>temporal discounting</title>
       <link>/it/tags/temporal-discounting/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0300</pubDate>
       
@@ -683,6 +683,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/administration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adults</title>
+      <link>/it/tags/adults/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/adults/</guid>
       <description></description>
     </item>
     
@@ -840,7 +849,7 @@
     </item>
     
     <item>
-      <title>Diffusion tensor imaging</title>
+      <title>Diffusion Tensor Imaging</title>
       <link>/it/tags/diffusion-tensor-imaging/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
@@ -1092,6 +1101,15 @@
     </item>
     
     <item>
+      <title>Intelligence</title>
+      <link>/it/tags/intelligence/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Intranasal</title>
       <link>/it/tags/intranasal/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1187,6 +1205,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/nerve-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroimaging</title>
+      <link>/it/tags/neuroimaging/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/neuroimaging/</guid>
       <description></description>
     </item>
     
@@ -1317,15 +1344,6 @@
     </item>
     
     <item>
-      <title>Sex differences</title>
-      <link>/it/tags/sex-differences/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/sex-differences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Siblings</title>
       <link>/it/tags/siblings/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1407,15 +1425,6 @@
     </item>
     
     <item>
-      <title>Voxel-based morphometry</title>
-      <link>/it/tags/voxel-based-morphometry/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/voxel-based-morphometry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>White Matter</title>
       <link>/it/tags/white-matter/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1430,15 +1439,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/young-adult/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>adults</title>
-      <link>/it/tags/adults/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/adults/</guid>
       <description></description>
     </item>
     
@@ -1515,15 +1515,6 @@
     </item>
     
     <item>
-      <title>intelligence</title>
-      <link>/it/tags/intelligence/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>lamination</title>
       <link>/it/tags/lamination/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1533,20 +1524,20 @@
     </item>
     
     <item>
-      <title>neuroimaging</title>
-      <link>/it/tags/neuroimaging/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/neuroimaging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>self-report</title>
       <link>/it/tags/self-report/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/self-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sex differences</title>
+      <link>/it/tags/sex-differences/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/sex-differences/</guid>
       <description></description>
     </item>
     
@@ -1583,6 +1574,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/systemizing-mechanism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>voxel based morphometry</title>
+      <link>/it/tags/voxel-based-morphometry/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/voxel-based-morphometry/</guid>
       <description></description>
     </item>
     
@@ -1754,6 +1754,15 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
       
       <guid>/it/tags/affective-symptoms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexithymia</title>
+      <link>/it/tags/alexithymia/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/it/tags/alexithymia/</guid>
       <description></description>
     </item>
     
@@ -2055,15 +2064,6 @@
     </item>
     
     <item>
-      <title>alexithymia</title>
-      <link>/it/tags/alexithymia/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/it/tags/alexithymia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>autistic traits</title>
       <link>/it/tags/autistic-traits/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
@@ -2262,6 +2262,15 @@
     </item>
     
     <item>
+      <title>Neuroanatomy</title>
+      <link>/it/tags/neuroanatomy/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
+      
+      <guid>/it/tags/neuroanatomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Neurological</title>
       <link>/it/tags/neurological/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
@@ -2285,15 +2294,6 @@
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
       
       <guid>/it/tags/individual-differences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neuroanatomy</title>
-      <link>/it/tags/neuroanatomy/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
-      
-      <guid>/it/tags/neuroanatomy/</guid>
       <description></description>
     </item>
     

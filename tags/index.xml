@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Heterogeneity</title>
+      <link>/tags/heterogeneity/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/heterogeneity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mechanisms</title>
       <link>/tags/mechanisms/</link>
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
@@ -30,20 +39,29 @@
     </item>
     
     <item>
-      <title>heterogeneity</title>
-      <link>/tags/heterogeneity/</link>
-      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/heterogeneity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>People</title>
       <link>/tags/people/</link>
       <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lombardo mv</title>
+      <link>/tags/lombardo-mv/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0300</pubDate>
+      
+      <guid>/tags/lombardo-mv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autism</title>
+      <link>/tags/autism/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/autism/</guid>
       <description></description>
     </item>
     
@@ -89,24 +107,6 @@
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
       
       <guid>/tags/visual-motor-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>autism</title>
-      <link>/tags/autism/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/autism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lombardo mv</title>
-      <link>/tags/lombardo-mv/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/lombardo-mv/</guid>
       <description></description>
     </item>
     
@@ -246,11 +246,11 @@
     </item>
     
     <item>
-      <title>Mentalizing</title>
-      <link>/tags/mentalizing/</link>
+      <title>Sex</title>
+      <link>/tags/sex/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
       
-      <guid>/tags/mentalizing/</guid>
+      <guid>/tags/sex/</guid>
       <description></description>
     </item>
     
@@ -291,20 +291,20 @@
     </item>
     
     <item>
+      <title>mentalizing</title>
+      <link>/tags/mentalizing/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
+      
+      <guid>/tags/mentalizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>self</title>
       <link>/tags/self/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
       
       <guid>/tags/self/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sex</title>
-      <link>/tags/sex/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
-      
-      <guid>/tags/sex/</guid>
       <description></description>
     </item>
     
@@ -669,7 +669,7 @@
     </item>
     
     <item>
-      <title>Temporal discounting</title>
+      <title>temporal discounting</title>
       <link>/tags/temporal-discounting/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0300</pubDate>
       
@@ -840,7 +840,7 @@
     </item>
     
     <item>
-      <title>Diffusion tensor imaging</title>
+      <title>Diffusion Tensor Imaging</title>
       <link>/tags/diffusion-tensor-imaging/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
@@ -1052,15 +1052,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/tags/image-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Imaging</title>
-      <link>/tags/imaging/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/imaging/</guid>
       <description></description>
     </item>
     
@@ -1290,6 +1281,15 @@
     </item>
     
     <item>
+      <title>Self Report</title>
+      <link>/tags/self-report/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/self-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Severity of Illness Index</title>
       <link>/tags/severity-of-illness-index/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1313,15 +1313,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/tags/sex-factors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sex differences</title>
-      <link>/tags/sex-differences/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/sex-differences/</guid>
       <description></description>
     </item>
     
@@ -1403,15 +1394,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/tags/translation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Voxel-based morphometry</title>
-      <link>/tags/voxel-based-morphometry/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/voxel-based-morphometry/</guid>
       <description></description>
     </item>
     
@@ -1515,6 +1497,15 @@
     </item>
     
     <item>
+      <title>imaging</title>
+      <link>/tags/imaging/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>intelligence</title>
       <link>/tags/intelligence/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
@@ -1542,11 +1533,11 @@
     </item>
     
     <item>
-      <title>self-report</title>
-      <link>/tags/self-report/</link>
+      <title>sex differences</title>
+      <link>/tags/sex-differences/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
-      <guid>/tags/self-report/</guid>
+      <guid>/tags/sex-differences/</guid>
       <description></description>
     </item>
     
@@ -1583,6 +1574,15 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/tags/systemizing-mechanism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>voxel based morphometry</title>
+      <link>/tags/voxel-based-morphometry/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/voxel-based-morphometry/</guid>
       <description></description>
     </item>
     
@@ -2262,6 +2262,15 @@
     </item>
     
     <item>
+      <title>Neuroanatomy</title>
+      <link>/tags/neuroanatomy/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
+      
+      <guid>/tags/neuroanatomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Neurological</title>
       <link>/tags/neurological/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
@@ -2285,15 +2294,6 @@
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
       
       <guid>/tags/individual-differences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>neuroanatomy</title>
-      <link>/tags/neuroanatomy/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
-      
-      <guid>/tags/neuroanatomy/</guid>
       <description></description>
     </item>
     
@@ -2676,15 +2676,6 @@
     </item>
     
     <item>
-      <title>Semantics</title>
-      <link>/tags/semantics/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/semantics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Support Vector Machine</title>
       <link>/tags/support-vector-machine/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
@@ -2735,6 +2726,15 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
       
       <guid>/tags/self-report-questionnaire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semantics</title>
+      <link>/tags/semantics/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/semantics/</guid>
       <description></description>
     </item>
     
