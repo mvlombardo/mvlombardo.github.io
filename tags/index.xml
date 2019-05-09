@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Development</title>
       <link>/tags/development/</link>
-      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/development/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Heterogeneity</title>
       <link>/tags/heterogeneity/</link>
-      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/heterogeneity/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Mechanisms</title>
       <link>/tags/mechanisms/</link>
-      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/mechanisms/</guid>
       <description></description>
@@ -138,11 +138,47 @@
     </item>
     
     <item>
+      <title>Brain</title>
+      <link>/tags/brain/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/brain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connectome Analysis</title>
+      <link>/tags/connectome-analysis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/connectome-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion weighted MRI</title>
+      <link>/tags/diffusion-weighted-mri/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/diffusion-weighted-mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Editorial Policies</title>
       <link>/tags/editorial-policies/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
       
       <guid>/tags/editorial-policies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MRI</title>
+      <link>/tags/mri/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/mri/</guid>
       <description></description>
     </item>
     
@@ -183,6 +219,15 @@
     </item>
     
     <item>
+      <title>network</title>
+      <link>/tags/network/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>psychiatric symptoms</title>
       <link>/tags/psychiatric-symptoms/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
@@ -197,15 +242,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
       
       <guid>/tags/symptom-severity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MRI</title>
-      <link>/tags/mri/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/mri/</guid>
       <description></description>
     </item>
     
@@ -350,15 +386,6 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
       
       <guid>/tags/anxiety-disorders/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brain</title>
-      <link>/tags/brain/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/brain/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,28 @@
     <description>Recent content in Development on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ERC</title>
+      <link>/research/autisms/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/research/autisms/</guid>
+      <description>AUTISMS</description>
+    </item>
+    
+    <item>
+      <title>EU-AIMS</title>
+      <link>/research/euaims/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/research/euaims/</guid>
+      <description>European Autism Interventions - A Multicentre Study for Developing New Medications (EU-AIMS)</description>
+    </item>
     
     <item>
       <title>Connectomics</title>

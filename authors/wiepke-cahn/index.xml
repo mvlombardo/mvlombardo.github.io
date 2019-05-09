@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wiepke Cahn on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/authors/wiepke-cahn/</link>
+    <description>Recent content in Wiepke Cahn on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/authors/wiepke-cahn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>10Kin1day: A Bottom-Up Neuroimaging Initiative</title>
+      <link>/publication/van-den-heuvel-10-kin-1-day-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/van-den-heuvel-10-kin-1-day-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
