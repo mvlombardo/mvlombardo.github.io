@@ -57,6 +57,15 @@
     </item>
     
     <item>
+      <title>Autism</title>
+      <link>/tags/autism/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/autism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cerebellum</title>
       <link>/tags/cerebellum/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
@@ -98,15 +107,6 @@
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>/tags/visual-motor-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>autism</title>
-      <link>/tags/autism/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/autism/</guid>
       <description></description>
     </item>
     
@@ -2253,7 +2253,7 @@
     </item>
     
     <item>
-      <title>Asperger syndrome</title>
+      <title>Asperger Syndrome</title>
       <link>/tags/asperger-syndrome/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
       
