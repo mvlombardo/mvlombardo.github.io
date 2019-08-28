@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <link>/author/natashabertelsen/</link>
+    <description>Recent content on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/author/natashabertelsen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
