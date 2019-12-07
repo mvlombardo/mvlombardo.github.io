@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>functional magnetic resonance imaging on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
@@ -6,15 +6,24 @@
     <description>Recent content in functional magnetic resonance imaging on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/functional-magnetic-resonance-imaging/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Enhancement of indirect functional connections with shortest path length in the adult autistic brain</title>
+      <link>/publication/guo-enhancement-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/guo-enhancement-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Neural self-representation in autistic women and association with &#39;compensatory camouflaging&#39;</title>
       <link>/publication/lai-neural-2018/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
       
       <guid>/publication/lai-neural-2018/</guid>
       <description></description>

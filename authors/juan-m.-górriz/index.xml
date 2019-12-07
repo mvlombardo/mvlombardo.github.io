@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Juan M. Górriz on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Juan M. Górriz on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/authors/juan-m.-g%C3%B3rriz/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>A Machine Learning Approach to Reveal the NeuroPhenotypes of Autisms</title>
       <link>/publication/gorriz-machine-2018/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0200</pubDate>
       
       <guid>/publication/gorriz-machine-2018/</guid>
       <description></description>

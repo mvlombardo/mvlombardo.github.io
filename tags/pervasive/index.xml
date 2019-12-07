@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pervasive on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Pervasive on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="/tags/pervasive/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Prediction of autism by translation and immune/inflammation coexpressed genes in toddlers from pediatric community practices</title>
       <link>/publication/pramparo-prediction-2015/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0300</pubDate>
       
       <guid>/publication/pramparo-prediction-2015/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Subgrouping the autism &#34;spectrum&#34;: reflections on DSM-5</title>
       <link>/publication/lai-subgrouping-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0200</pubDate>
       
       <guid>/publication/lai-subgrouping-2013/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Brain anatomy and its relationship to behavior in adults with autism spectrum disorder: a multicenter magnetic resonance imaging study</title>
       <link>/publication/ecker-brain-2012/</link>
-      <pubDate>Wed, 01 Feb 2012 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0200</pubDate>
       
       <guid>/publication/ecker-brain-2012/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Why are autism spectrum conditions more prevalent in males?</title>
       <link>/publication/baron-cohen-why-2011/</link>
-      <pubDate>Wed, 01 Jun 2011 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0300</pubDate>
       
       <guid>/publication/baron-cohen-why-2011/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>A behavioral comparison of male and female adults with high functioning autism spectrum conditions</title>
       <link>/publication/lai-behavioral-2011/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0200</pubDate>
       
       <guid>/publication/lai-behavioral-2011/</guid>
       <description></description>

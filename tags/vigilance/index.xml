@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vigilance on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Vigilance on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/vigilance/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Disorder-Specific and Shared Brain Abnormalities During Vigilance in Autism and Obsessive-Compulsive Disorder</title>
       <link>/publication/carlisi-disorder-specific-2017/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0200</pubDate>
       
       <guid>/publication/carlisi-disorder-specific-2017/</guid>
       <description></description>

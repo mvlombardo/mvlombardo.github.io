@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meng-Chuan Lai on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Meng-Chuan Lai on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="/authors/meng-chuan-lai/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,25 @@
     <item>
       <title>Large-scale analyses of the relationship between sex, age and intelligence quotient heterogeneity and cortical morphometry in autism spectrum disorder</title>
       <link>/publication/bedford-large-scale-2019/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0300</pubDate>
       
       <guid>/publication/bedford-large-scale-2019/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Enhancement of indirect functional connections with shortest path length in the adult autistic brain</title>
+      <link>/publication/guo-enhancement-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/guo-enhancement-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Big data approaches to decomposing heterogeneity across the autism spectrum</title>
       <link>/publication/lombardo-big-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
       
       <guid>/publication/lombardo-big-2019/</guid>
       <description></description>
@@ -32,7 +41,7 @@
     <item>
       <title>Rigor in science and science reporting: updated guidelines for submissions to Molecular Autism</title>
       <link>/publication/buxbaum-rigor-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0200</pubDate>
       
       <guid>/publication/buxbaum-rigor-2019/</guid>
       <description></description>
@@ -41,7 +50,7 @@
     <item>
       <title>A Machine Learning Approach to Reveal the NeuroPhenotypes of Autisms</title>
       <link>/publication/gorriz-machine-2018/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0200</pubDate>
       
       <guid>/publication/gorriz-machine-2018/</guid>
       <description></description>
@@ -50,7 +59,7 @@
     <item>
       <title>Neural self-representation in autistic women and association with &#39;compensatory camouflaging&#39;</title>
       <link>/publication/lai-neural-2018/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
       
       <guid>/publication/lai-neural-2018/</guid>
       <description></description>
@@ -59,7 +68,7 @@
     <item>
       <title>Sex-specific impact of prenatal androgens on social brain default mode subsystems</title>
       <link>/publication/lombardo-sex-specific-2018/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0300</pubDate>
       
       <guid>/publication/lombardo-sex-specific-2018/</guid>
       <description></description>
@@ -68,7 +77,7 @@
     <item>
       <title>EU-AIMS Longitudinal European Autism Project (LEAP): the autism twin cohort</title>
       <link>/publication/isaksson-eu-aims-2018/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0300</pubDate>
       
       <guid>/publication/isaksson-eu-aims-2018/</guid>
       <description></description>
@@ -77,7 +86,7 @@
     <item>
       <title>Association Between the Probability of Autism Spectrum Disorder and Normative Sex-Related Phenotypic Diversity in Brain Structure</title>
       <link>/publication/ecker-association-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/publication/ecker-association-2017/</guid>
       <description></description>
@@ -86,7 +95,7 @@
     <item>
       <title>Imaging sex/gender and autism in the brain: Etiological implications</title>
       <link>/publication/lai-imaging-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/publication/lai-imaging-2017/</guid>
       <description></description>
@@ -95,7 +104,7 @@
     <item>
       <title>Impaired Communication Between the Motor and Somatosensory Homunculus Is Associated With Poor Manual Dexterity in Autism Spectrum Disorder</title>
       <link>/publication/thompson-impaired-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/publication/thompson-impaired-2017/</guid>
       <description></description>
@@ -104,7 +113,7 @@
     <item>
       <title>In Vivo Evidence of Reduced Integrity of the Gray-White Matter Boundary in Autism Spectrum Disorder</title>
       <link>/publication/andrews-vivo-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/publication/andrews-vivo-2017/</guid>
       <description></description>
@@ -113,7 +122,7 @@
     <item>
       <title>On the brain structure heterogeneity of autism: Parsing out acquisition site effects with significance-weighted principal component analysis</title>
       <link>/publication/martinez-murcia-brain-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/publication/martinez-murcia-brain-2017/</guid>
       <description></description>
@@ -122,7 +131,7 @@
     <item>
       <title>Quantifying and exploring camouflaging in men and women with autism</title>
       <link>/publication/lai-quantifying-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/publication/lai-quantifying-2017/</guid>
       <description></description>
@@ -131,7 +140,7 @@
     <item>
       <title>The EU-AIMS Longitudinal European Autism Project (LEAP): clinical characterisation</title>
       <link>/publication/charman-eu-aims-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/publication/charman-eu-aims-2017/</guid>
       <description></description>
@@ -140,7 +149,7 @@
     <item>
       <title>The EU-AIMS Longitudinal European Autism Project (LEAP): design and methodologies to identify and validate stratification biomarkers for autism spectrum disorders</title>
       <link>/publication/loth-eu-aims-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/publication/loth-eu-aims-2017/</guid>
       <description></description>
@@ -149,7 +158,7 @@
     <item>
       <title>Frontal networks in adults with autism spectrum disorder</title>
       <link>/publication/catani-frontal-2016/</link>
-      <pubDate>Mon, 01 Feb 2016 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0200</pubDate>
       
       <guid>/publication/catani-frontal-2016/</guid>
       <description></description>
@@ -158,7 +167,7 @@
     <item>
       <title>Atypically rightward cerebral asymmetry in male adults with autism stratifies individuals with and without language delay</title>
       <link>/publication/floris-atypically-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
       
       <guid>/publication/floris-atypically-2016/</guid>
       <description></description>
@@ -167,7 +176,7 @@
     <item>
       <title>Unsupervised data-driven stratification of mentalizing heterogeneity in autism</title>
       <link>/publication/lombardo-unsupervised-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
       
       <guid>/publication/lombardo-unsupervised-2016/</guid>
       <description></description>
@@ -176,7 +185,7 @@
     <item>
       <title>Neuroanatomy of Individual Differences in Language in Adult Males with Autism</title>
       <link>/publication/lai-neuroanatomy-2015/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
       
       <guid>/publication/lai-neuroanatomy-2015/</guid>
       <description></description>
@@ -185,7 +194,7 @@
     <item>
       <title>Sex/gender differences and autism: setting the scene for future research</title>
       <link>/publication/lai-sexgender-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
       
       <guid>/publication/lai-sexgender-2015/</guid>
       <description></description>
@@ -194,7 +203,7 @@
     <item>
       <title>Testing the &#39;Extreme Female Brain&#39; Theory of Psychosis in Adults with Autism Spectrum Disorder with or without Co-Morbid Psychosis</title>
       <link>/publication/larson-testing-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
       
       <guid>/publication/larson-testing-2015/</guid>
       <description></description>
@@ -203,7 +212,7 @@
     <item>
       <title>The &#34;Reading the Mind in the Eyes&#34; Test: Complete Absence of Typical Sex Difference in ~400 Men and Women with Autism</title>
       <link>/publication/baron-cohen-reading-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
       
       <guid>/publication/baron-cohen-reading-2015/</guid>
       <description></description>
@@ -212,7 +221,7 @@
     <item>
       <title>The neuropsychology of male adults with high-functioning autism or asperger syndrome</title>
       <link>/publication/wilson-neuropsychology-2014/</link>
-      <pubDate>Wed, 01 Oct 2014 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0300</pubDate>
       
       <guid>/publication/wilson-neuropsychology-2014/</guid>
       <description></description>
@@ -221,7 +230,7 @@
     <item>
       <title>Are power calculations useful? A multicentre neuroimaging study</title>
       <link>/publication/suckling-are-2014/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0300</pubDate>
       
       <guid>/publication/suckling-are-2014/</guid>
       <description></description>
@@ -230,7 +239,7 @@
     <item>
       <title>Autism</title>
       <link>/publication/lai-autism-2014/</link>
-      <pubDate>Sat, 01 Mar 2014 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0200</pubDate>
       
       <guid>/publication/lai-autism-2014/</guid>
       <description></description>
@@ -239,7 +248,7 @@
     <item>
       <title>A meta-analysis of sex differences in human brain structure</title>
       <link>/publication/ruigrok-meta-analysis-2014/</link>
-      <pubDate>Sat, 01 Feb 2014 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0200</pubDate>
       
       <guid>/publication/ruigrok-meta-analysis-2014/</guid>
       <description></description>
@@ -248,7 +257,7 @@
     <item>
       <title>Biological sex affects the neurobiology of autism</title>
       <link>/publication/lai-biological-2013/</link>
-      <pubDate>Sun, 01 Sep 2013 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0300</pubDate>
       
       <guid>/publication/lai-biological-2013/</guid>
       <description></description>
@@ -257,7 +266,7 @@
     <item>
       <title>Brain surface anatomy in adults with autism: the relationship between surface area, cortical thickness, and autistic symptoms</title>
       <link>/publication/ecker-brain-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0200</pubDate>
       
       <guid>/publication/ecker-brain-2013/</guid>
       <description></description>
@@ -266,7 +275,7 @@
     <item>
       <title>Subgrouping the autism &#34;spectrum&#34;: reflections on DSM-5</title>
       <link>/publication/lai-subgrouping-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0200</pubDate>
       
       <guid>/publication/lai-subgrouping-2013/</guid>
       <description></description>
@@ -275,7 +284,7 @@
     <item>
       <title>Fetal programming effects of testosterone on the reward system and behavioral approach tendencies in humans</title>
       <link>/publication/lombardo-fetal-2012/</link>
-      <pubDate>Thu, 01 Nov 2012 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0200</pubDate>
       
       <guid>/publication/lombardo-fetal-2012/</guid>
       <description></description>
@@ -284,7 +293,7 @@
     <item>
       <title>Self-referential and social cognition in a case of autism and agenesis of the corpus callosum</title>
       <link>/publication/lombardo-self-referential-2012/</link>
-      <pubDate>Thu, 01 Nov 2012 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0200</pubDate>
       
       <guid>/publication/lombardo-self-referential-2012/</guid>
       <description></description>
@@ -293,7 +302,7 @@
     <item>
       <title>Individual differences in brain structure underpin empathizing-systemizing cognitive styles in male adults</title>
       <link>/publication/lai-individual-2012/</link>
-      <pubDate>Sun, 01 Jul 2012 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0300</pubDate>
       
       <guid>/publication/lai-individual-2012/</guid>
       <description></description>
@@ -302,7 +311,7 @@
     <item>
       <title>Cognition in males and females with autism: similarities and differences</title>
       <link>/publication/lai-cognition-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0200</pubDate>
       
       <guid>/publication/lai-cognition-2012/</guid>
       <description></description>
@@ -311,7 +320,7 @@
     <item>
       <title>Sex differences and autism: brain function during verbal fluency and mental rotation</title>
       <link>/publication/beacher-sex-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0200</pubDate>
       
       <guid>/publication/beacher-sex-2012/</guid>
       <description></description>
@@ -320,7 +329,7 @@
     <item>
       <title>A behavioral comparison of male and female adults with high functioning autism spectrum conditions</title>
       <link>/publication/lai-behavioral-2011/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0200</pubDate>
       
       <guid>/publication/lai-behavioral-2011/</guid>
       <description></description>
@@ -329,7 +338,7 @@
     <item>
       <title>A shift to randomness of brain oscillations in people with autism</title>
       <link>/publication/lai-shift-2010/</link>
-      <pubDate>Wed, 01 Dec 2010 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0200</pubDate>
       
       <guid>/publication/lai-shift-2010/</guid>
       <description></description>

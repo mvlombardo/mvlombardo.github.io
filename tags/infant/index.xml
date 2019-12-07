@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infant on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Infant on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/infant/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Cell cycle networks link gene expression dysregulation, mutation, and brain maldevelopment in autistic toddlers</title>
       <link>/publication/pramparo-cell-2015/</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0200</pubDate>
       
       <guid>/publication/pramparo-cell-2015/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Different functional neural substrates for good and poor language outcome in autism</title>
       <link>/publication/lombardo-different-2015/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0300</pubDate>
       
       <guid>/publication/lombardo-different-2015/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Prediction of autism by translation and immune/inflammation coexpressed genes in toddlers from pediatric community practices</title>
       <link>/publication/pramparo-prediction-2015/</link>
-      <pubDate>Wed, 01 Apr 2015 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0300</pubDate>
       
       <guid>/publication/pramparo-prediction-2015/</guid>
       <description></description>

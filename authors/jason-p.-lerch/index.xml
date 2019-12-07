@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jason P. Lerch on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Jason P. Lerch on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="/authors/jason-p.-lerch/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Large-scale analyses of the relationship between sex, age and intelligence quotient heterogeneity and cortical morphometry in autism spectrum disorder</title>
       <link>/publication/bedford-large-scale-2019/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0300</pubDate>
       
       <guid>/publication/bedford-large-scale-2019/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Imaging sex/gender and autism in the brain: Etiological implications</title>
       <link>/publication/lai-imaging-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
       
       <guid>/publication/lai-imaging-2017/</guid>
       <description></description>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Richard A. I. Bethlehem on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Richard A. I. Bethlehem on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/authors/richard-a.-i.-bethlehem/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Large-scale associations between the leukocyte transcriptome and BOLD responses to speech differ in autism early language outcome subtypes</title>
       <link>/publication/lombardo-large-scale-2018/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0200</pubDate>
       
       <guid>/publication/lombardo-large-scale-2018/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Sex-specific impact of prenatal androgens on social brain default mode subsystems</title>
       <link>/publication/lombardo-sex-specific-2018/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0300</pubDate>
       
       <guid>/publication/lombardo-sex-specific-2018/</guid>
       <description></description>

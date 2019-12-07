@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D. K. Jones on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
@@ -6,7 +6,7 @@
     <description>Recent content in D. K. Jones on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/authors/d.-k.-jones/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Relationship Between Cortical Gyrification, White Matter Connectivity, and Autism Spectrum Disorder</title>
       <link>/publication/ecker-relationship-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
       
       <guid>/publication/ecker-relationship-2016/</guid>
       <description></description>

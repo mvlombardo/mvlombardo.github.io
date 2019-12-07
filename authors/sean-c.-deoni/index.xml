@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sean C. Deoni on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Sean C. Deoni on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Aug 2014 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2014 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="/authors/sean-c.-deoni/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Are power calculations useful? A multicentre neuroimaging study</title>
       <link>/publication/suckling-are-2014/</link>
-      <pubDate>Fri, 01 Aug 2014 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0300</pubDate>
       
       <guid>/publication/suckling-are-2014/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Brain anatomy and its relationship to behavior in adults with autism spectrum disorder: a multicenter magnetic resonance imaging study</title>
       <link>/publication/ecker-brain-2012/</link>
-      <pubDate>Wed, 01 Feb 2012 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0200</pubDate>
       
       <guid>/publication/ecker-brain-2012/</guid>
       <description></description>

@@ -1,20 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Resting-state on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <title>resting-state on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
     <link>/tags/resting-state/</link>
-    <description>Recent content in Resting-state on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <description>Recent content in resting-state on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/resting-state/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Enhancement of indirect functional connections with shortest path length in the adult autistic brain</title>
+      <link>/publication/guo-enhancement-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/guo-enhancement-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mindfulness and dynamic functional neural connectivity in children and adolescents</title>
       <link>/publication/marusak-mindfulness-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
       
       <guid>/publication/marusak-mindfulness-2018/</guid>
       <description></description>

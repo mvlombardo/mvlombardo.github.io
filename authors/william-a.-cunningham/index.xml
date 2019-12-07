@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>William A. Cunningham on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
@@ -6,7 +6,7 @@
     <description>Recent content in William A. Cunningham on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Dec 2008 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2008 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/authors/william-a.-cunningham/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>The Quadruple Process model approach to examining the neural underpinnings of prejudice</title>
       <link>/publication/beer-quadruple-2008/</link>
-      <pubDate>Mon, 01 Dec 2008 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0200</pubDate>
       
       <guid>/publication/beer-quadruple-2008/</guid>
       <description></description>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
@@ -18,15 +18,6 @@
       
       <guid>/news/phd-positions/</guid>
       <description>Come join the lab!</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/author/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/author/admin/</guid>
-      <description>I am PI of the Neurodevelopmental Disorders research line at the Italian Institute of Technology (IIT) and direct the Laboratory for Autism and Neurodevelopmental Disorders (LAND) based in the Center for Neuroscience and Cognitive Systems (CNCS) in Rovereto, Italy. IIT LAND&amp;rsquo;s translational research program is focused on understanding heterogeneity and early developmental mechanisms involved in autism and atypical neurodevelopment.</description>
     </item>
     
   </channel>

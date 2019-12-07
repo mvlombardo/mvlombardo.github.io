@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mentalizing on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
@@ -6,7 +6,7 @@
     <description>Recent content in mentalizing on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="/tags/mentalizing/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Neural self-representation in autistic women and association with &#39;compensatory camouflaging&#39;</title>
       <link>/publication/lai-neural-2018/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
       
       <guid>/publication/lai-neural-2018/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Improving effect size estimation and statistical power with multi-echo fMRI and its impact on understanding the neural systems supporting mentalizing</title>
       <link>/publication/lombardo-improving-2016/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0200</pubDate>
       
       <guid>/publication/lombardo-improving-2016/</guid>
       <description></description>

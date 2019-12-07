@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kevin Taylor on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Kevin Taylor on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/authors/kevin-taylor/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Fetal programming effects of testosterone on the reward system and behavioral approach tendencies in humans</title>
       <link>/publication/lombardo-fetal-2012/</link>
-      <pubDate>Thu, 01 Nov 2012 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0200</pubDate>
       
       <guid>/publication/lombardo-fetal-2012/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Fetal testosterone influences sexually dimorphic gray matter in the human brain</title>
       <link>/publication/lombardo-fetal-2012-1/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0200</pubDate>
       
       <guid>/publication/lombardo-fetal-2012-1/</guid>
       <description></description>

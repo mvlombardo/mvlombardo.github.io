@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clodagh Murphy on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Clodagh Murphy on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="/authors/clodagh-murphy/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>The effect of age on vertex-based measures of the grey-white matter tissue contrast in autism spectrum disorder</title>
       <link>/publication/mann-effect-2018/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
       
       <guid>/publication/mann-effect-2018/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Decreased centrality of cortical volume covariance networks in autism spectrum disorders</title>
       <link>/publication/balardin-decreased-2015/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
       
       <guid>/publication/balardin-decreased-2015/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Relationship Between Surface-Based Brain Morphometric Measures and Intelligence in Autism Spectrum Disorders: Influence of History of Language Delay</title>
       <link>/publication/balardin-relationship-2015/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0300</pubDate>
       
       <guid>/publication/balardin-relationship-2015/</guid>
       <description></description>
@@ -41,7 +41,7 @@
     <item>
       <title>Obsessive-Compulsive Disorder in Adults with High-Functioning Autism Spectrum Disorder: What Does Self-Report with the OCI-R Tell Us?</title>
       <link>/publication/cadman-obsessive-compulsive-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
       
       <guid>/publication/cadman-obsessive-compulsive-2015/</guid>
       <description></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Intrinsic gray-matter connectivity of the brain in adults with autism spectrum disorder</title>
       <link>/publication/ecker-intrinsic-2013/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0300</pubDate>
       
       <guid>/publication/ecker-intrinsic-2013/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>Investigating the predictive value of whole-brain structural MR scans in autism: A pattern classification approach</title>
       <link>/publication/ecker-investigating-2010/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0200</pubDate>
       
       <guid>/publication/ecker-investigating-2010/</guid>
       <description></description>
