@@ -6,7 +6,7 @@
     <description>Recent content in Echo-Planar Imaging on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/echo-planar-imaging/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Multi-echo fMRI: A review of applications in fMRI denoising and analysis of BOLD signals</title>
       <link>/publication/kundu-multi-echo-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
       <guid>/publication/kundu-multi-echo-2017/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Improving effect size estimation and statistical power with multi-echo fMRI and its impact on understanding the neural systems supporting mentalizing</title>
       <link>/publication/lombardo-improving-2016/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0100</pubDate>
       
       <guid>/publication/lombardo-improving-2016/</guid>
       <description></description>
