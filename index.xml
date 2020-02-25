@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Researches</title>
       <link>/research/</link>
       <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
@@ -35,15 +44,6 @@
       <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/</guid>
       <description></description>
     </item>
     
