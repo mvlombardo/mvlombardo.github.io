@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>**MRC AIMS Consortium** on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <title>MRC AIMS Consortium on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
     <link>/authors/mrc-aims-consortium/</link>
-    <description>Recent content in **MRC AIMS Consortium** on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <description>Recent content in MRC AIMS Consortium on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/mrc-aims-consortium/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Intrinsic excitation-inhibition imbalance affects medial prefrontal cortex differently in autistic men versus women</title>
+      <link>/publication/trakoshis-intrinsic-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/trakoshis-intrinsic-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Enhancement of indirect functional connections with shortest path length in the adult autistic brain</title>

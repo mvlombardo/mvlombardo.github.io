@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>autism on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
+    <title>Autism on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</title>
     <link>/tags/autism/</link>
-    <description>Recent content in autism on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
+    <description>Recent content in Autism on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/autism/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Effects of oxytocin administration on salivary sex hormone levels in autistic and neurotypical women</title>
+      <link>/publication/procyshyn-effects-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/procyshyn-effects-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intrinsic excitation-inhibition imbalance affects medial prefrontal cortex differently in autistic men versus women</title>
+      <link>/publication/trakoshis-intrinsic-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/trakoshis-intrinsic-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Altered Connectivity Between Cerebellum, Visual, and Sensory-Motor Networks in Autism Spectrum Disorder: Results from the EU-AIMS Longitudinal European Autism Project</title>

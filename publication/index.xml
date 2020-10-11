@@ -6,10 +6,28 @@
     <description>Recent content in Publications on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A normative modelling approach reveals age-atypical cortical thickness in a subgroup of males with autism spectrum disorder</title>
+      <link>/publication/bethlehem-normative-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bethlehem-normative-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sex-specific impact of prenatal androgens on social brain default mode subsystems</title>
+      <link>/publication/lombardo-sex-specific-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lombardo-sex-specific-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Social brain activation during mentalizing in a large autism cohort: the Longitudinal European Autism Project</title>
@@ -17,6 +35,24 @@
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/publication/moessnang-social-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of oxytocin administration on salivary sex hormone levels in autistic and neurotypical women</title>
+      <link>/publication/procyshyn-effects-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/procyshyn-effects-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intrinsic excitation-inhibition imbalance affects medial prefrontal cortex differently in autistic men versus women</title>
+      <link>/publication/trakoshis-intrinsic-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/trakoshis-intrinsic-2020/</guid>
       <description></description>
     </item>
     
@@ -143,15 +179,6 @@
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
       
       <guid>/publication/ritchie-sex-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sex-specific impact of prenatal androgens on social brain default mode subsystems</title>
-      <link>/publication/lombardo-sex-specific-2018/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/lombardo-sex-specific-2018/</guid>
       <description></description>
     </item>
     
