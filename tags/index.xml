@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Laboratory of Autism and Neurodevelopmental Disorders (LAND)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Behavior</title>
+      <link>/tags/behavior/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/behavior/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>/tags/development/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneity</title>
+      <link>/tags/heterogeneity/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/heterogeneity/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Autism</title>
@@ -44,15 +71,6 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/fmri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heterogeneity</title>
-      <link>/tags/heterogeneity/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/heterogeneity/</guid>
       <description></description>
     </item>
     
@@ -161,15 +179,6 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/testosterone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>/tags/development/</link>
-      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/development/</guid>
       <description></description>
     </item>
     
@@ -3419,15 +3428,6 @@
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0100</pubDate>
       
       <guid>/tags/amniocentesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Behavior</title>
-      <link>/tags/behavior/</link>
-      <pubDate>Thu, 01 Nov 2012 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/behavior/</guid>
       <description></description>
     </item>
     

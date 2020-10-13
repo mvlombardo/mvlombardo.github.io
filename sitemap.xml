@@ -18,6 +18,36 @@
   </url>
   
   <url>
+    <loc>/research/action/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/behavior/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/development/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/heterogeneity/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/research/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/michael-v.-lombardo/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -363,11 +393,6 @@
   </url>
   
   <url>
-    <loc>/tags/heterogeneity/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/human/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -468,11 +493,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/tanya-l.-procyshyn/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -493,11 +513,6 @@
   </url>
   
   <url>
-    <loc>/tags/development/</loc>
-    <lastmod>2019-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/research/autisms/</loc>
     <lastmod>2019-05-09T00:00:00+00:00</lastmod>
   </url>
@@ -509,11 +524,6 @@
   
   <url>
     <loc>/tags/mechanisms/</loc>
-    <lastmod>2019-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/research/</loc>
     <lastmod>2019-05-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -4944,11 +4954,6 @@
   
   <url>
     <loc>/tags/amniocentesis/</loc>
-    <lastmod>2012-11-01T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/behavior/</loc>
     <lastmod>2012-11-01T00:00:00+01:00</lastmod>
   </url>
   
